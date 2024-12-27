@@ -1,16 +1,16 @@
 # AI-NFT Metadata
 
-Creating AI-NFTs is just like traditional NFTs, **with only some differences in the metadata.** AI-NFT follows the typical metadata standard, with an extended field `ai_agent` that describes the engine and configuration of an AI agent.
+Creating AI-NFTs is just like traditional NFTs, **with** an extra field `ai_agent` that describes the configuration of an AI agent and the engine it uses, stored in the metadata.
 
-## Supported AI engine <a href="#metadata-json" id="metadata-json"></a>
+## Supported AI Engine <a href="#metadata-json" id="metadata-json"></a>
 
-* [**ElizaOS**](https://github.com/elizaOS):  character [examples](https://github.com/elizaOS/eliza/tree/main/characters).
+<table><thead><tr><th width="203">Engine</th><th width="204">Engine Name</th><th>Config File</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> by ElizaOS</td><td>eliza</td><td><ul><li>Docs: <a href="https://elizaos.github.io/eliza/docs/core/characterfile/">https://elizaos.github.io/eliza/docs/core/characterfile/</a></li><li>Template: <a href="https://github.com/elizaOS/characterfile">https://github.com/elizaOS/characterfile</a></li></ul></td></tr></tbody></table>
 
 ## AI-NFT Metadata JSON <a href="#metadata-json" id="metadata-json"></a>
 
 | Field                        | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ---------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ai\_agent** (Newly added)  | object | <p>The configuration that define the AI agent behind this NFT. </p><ul><li><strong>engine</strong> (string): the engine used to run the AI agent. Default as "elizaos".</li><li><strong>config</strong> (json): config json of an AI agent corresponding to the engine. Check the <a href="https://github.com/elizaOS/eliza/tree/main/characters">examples</a> if set <code>engine</code> as "elizaos".</li></ul>                                                                                                                                                 |
+| **ai\_agent** (Newly added)  | object | <p>The configuration that define the AI agent behind this NFT. </p><ul><li><strong>engine</strong> (string): the engine used to run the AI agent. Default as "eliza".</li><li><strong>config</strong> (object): the config JSON that describes the configuration of an AI agent.</li></ul>                                                                                                                                                                                                                                                                        |
 | **name**                     | string | Name of the asset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **description**              | string | Description of the asset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **image**                    | string | URI pointing to the asset's logo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -27,6 +27,20 @@ Creating AI-NFTs is just like traditional NFTs, **with only some differences in 
   ai_agent: {
     engine: "elizaos",
     config: {
+      // agent name
+      name:"eliza",
+      // background statements
+      bio: [
+        "Bio lines are each short snippets which can be composed together in a random order.",
+        "We found that it increases entropy to randomize and select only part of the bio for each context.",
+        "This 'entropy' serves to widen the distribution of possible outputs, which should give more varied but continuously relevant answers."
+      ],
+      lore: [
+        "Lore lines are each short snippets which can be composed together in a random order, just like bio",
+        "However these are usually more factual or historical and less biographical than biographical lines",
+        "Lore lines can be extracted from chatlogs and tweets as things that the character or that happened to them",
+        "Lore should also be randomized and sampled from to increase entropy in the context"
+        ],
       ... //xxx.character.json from https://github.com/elizaOS/eliza/tree/main/characters
     }
   },

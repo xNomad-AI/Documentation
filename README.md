@@ -28,7 +28,7 @@ You can run the AI agent behind an AI-NFT in any environment with ElizaOS instal
 ## What are the benefits of owning an AI-NFT?
 
 1. AI-NFTs aren’t just collectibles—they can automate tasks both on-chain and off-chain.
-2. All the asset gains and earnings from an AI-NFT belong to its owner.
+2. All the asset gains and earnings from an AI-NFT can be claimed by its owner.
 3. The value of assets held by an AI-NFT is reflected in its own value.
 4. Fully decentralized AI agents ensure their functionality and assets are secure, with no risk of service providers disappearing.
 
