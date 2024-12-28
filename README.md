@@ -1,5 +1,5 @@
 ---
-description: 'xNomad AI: AI agent as an NFT'
+description: AI agent as an NFT
 ---
 
 # Introduction
@@ -8,11 +8,15 @@ description: 'xNomad AI: AI agent as an NFT'
 
 ## What is xNomad?
 
-xNomad is the first autonomous AI-NFT collection with these exciting features:
+**xNomad connects AI agents with NFT, then produces "AI-NFT".**&#x20;
 
-* Running on [ElizaOS](https://github.com/elizaos/eliza) by [@ai16zdao](https://x.com/ai16zdao), each NFT is an independent AI agent.
+We provides a development toolkit that makes AI agents become NFTs (AI-NFT), cost-effectively creates various kinds of AI-NFT, and enables AI-NFT to interact seamlessly, securely and autonomously with NFT assets across multichains.&#x20;
+
+Every AI-NFT has these exciting features:
+
+* Based on [Eliza](https://github.com/elizaos/eliza) by [@ai16zdao](https://x.com/ai16zdao), each NFT is an independent AI agent with unique configuration and personality.
 * The AI agent runs in a secure TEE environment with their own crypto wallets, ensuring private keys remain untouchable.
-* The AI agent can independently invest and trade crypto assets, with NFT owners able to withdraw the assets they hold. **An AI-NFT’s value grows with its AI agent’s assets.**
+* The AI agent can independently invest and trade crypto assets, with NFT owners able to withdraw the assets they hold. **The AI-NFT’s value will grow with its AI agent’s assets.**
 * Each AI-NFT has a unique personality and communication style based on its traits.
 * NFT owners can set investment strategies, enabling the AI agent to manage on-chain investments automatically.
 * The AI agent can also connect to social platforms like Telegram and Twitter bots.
