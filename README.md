@@ -1,16 +1,26 @@
 ---
-description: AI agent as an NFT
+description: You own AI-NFT, you own AI agents.
 ---
 
 # Introduction
 
+
+
 <figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+
+## What is AI-NFT?
+
+AI-NFT is not just simply attaching an NFT image to an AI agent. NFT creates a wealth relationship between the AI agent and humans, turning the AI agent itself into an asset with financial value.
+
+AI-NFT is a native non-fungible token that can operate independently of clients, with its metadata about NFT and AI agent fully stored on-chain and immutable.&#x20;
+
+You can run the AI agent behind an AI-NFT in any environment with ElizaOS installed (in local, in the cloud, or in TEE), while keep their performance consistent.&#x20;
 
 ## What is xNomad?
 
 **xNomad connects AI agents with NFT, then produces "AI-NFT".**&#x20;
 
-We provides a development toolkit that makes AI agents become NFTs (AI-NFT), cost-effectively creates various kinds of AI-NFT, and enables AI-NFT to interact seamlessly, securely and autonomously with NFT assets across multichains.&#x20;
+**xNomad** is a development dev kit that makes AI agents become NFTs (AI-NFT), cost-effectively creates various kinds of AI-NFT, and enables AI-NFT to interact seamlessly, securely and autonomously with NFT assets across multichains.&#x20;
 
 Every AI-NFT has these exciting features:
 
@@ -20,14 +30,6 @@ Every AI-NFT has these exciting features:
 * Each AI-NFT has a unique personality and communication style based on its traits.
 * NFT owners can set investment strategies, enabling the AI agent to manage on-chain investments automatically.
 * The AI agent can also connect to social platforms like Telegram and Twitter bots.
-
-## What is AI-NFT?
-
-AI-NFT is not just simply attaching an NFT image to an AI agent. NFT creates a wealth relationship between the AI agent and humans, turning the AI agent itself into an asset with financial value.
-
-AI-NFT is a native non-fungible token that can operate independently of clients, with its metadata about NFT and AI agent fully stored on-chain and immutable.&#x20;
-
-You can run the AI agent behind an AI-NFT in any environment with ElizaOS installed (in local, in the cloud, or in TEE), while keep their performance consistent.&#x20;
 
 ## What are the benefits of owning an AI-NFT?
 
