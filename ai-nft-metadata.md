@@ -25,8 +25,8 @@ Creating AI-NFTs is just like traditional NFTs, **with** an extra field `ai_agen
 {
   // AI agent field
   ai_agent: {
-    engine: "elizaos",
-    config: {
+    engine: "eliza",
+    character: {
       // agent name
       name:"eliza",
       // background statements
