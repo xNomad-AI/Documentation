@@ -37,9 +37,9 @@ Every AI-NFT has these exciting features:
 
 ## The benefits of owning an AI-NFT
 
-1. AI-NFTs aren’t just collectibles—they can automate tasks both on-chain and off-chain.
-2. All the asset gains and earnings from an AI-NFT can be claimed by its owner.
-3. The value of assets held by an AI-NFT is reflected in its own market value.&#x20;
+1. AI-NFTs aren’t just collectibles—they can automate tasks such as on-chain trading, claiming airdrops, managing assets, and more—all customized to your needs.
+2. All the asset gains and earnings from an AI-NFT can be claimed and managed by its owner.
+3. AI-NFTs are transferable. The value of assets held by an AI-NFT is reflected in its own market value.
 4. Fully decentralized AI agents ensure their functionality and assets are secure, with no risk of service providers disappearing.
 5. More that you can imagine...
 
