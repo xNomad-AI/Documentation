@@ -4,7 +4,7 @@ Criar AI-NFTs é semelhante aos NFTs tradicionais, **com** um campo extra `ai_ag
 
 ## Supported AI Engine <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Engine</th><th width="231">Engine Name</th><th>Character File</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> by ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Documentação</a></li><li><a href="https://github.com/elizaOS/characterfile">Template</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Exemplo</a></li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="224">Engine</th><th width="231">Engine Name</th><th>Character File (arquivo de personagem)</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> by ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Documentação</a></li><li><a href="https://github.com/elizaOS/characterfile">Template</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Exemplo</a></li></ul></td></tr></tbody></table>
 
 ## AI-NFT Metadata JSON <a href="#metadata-json" id="metadata-json"></a>
 
