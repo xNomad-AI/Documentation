@@ -1,5 +1,5 @@
 ---
-description: Você possui AI-NFT, você possui agents de IA..
+description: Você possui AI-NFT, você possui agents de IA.
 ---
 
 # Introdução
