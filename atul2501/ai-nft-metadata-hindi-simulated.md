@@ -1,5 +1,4 @@
-# Completing the translation manually and simulating full content
-translated_full_content_hindi = """
+
 # एआई-एनएफटी मेटाडेटा
 
 एआई-एनएफटी बनाना पारंपरिक एनएफटी की तरह ही है, **के साथ** एक अतिरिक्त फ़ील्ड `ai_agent`, जो एआई एजेंट की कॉन्फ़िगरेशन और उसके उपयोग किए जाने वाले इंजन का वर्णन करता है, मेटाडेटा में संग्रहित होता है।
