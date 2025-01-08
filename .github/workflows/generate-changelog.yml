@@ -9,18 +9,27 @@ jobs:
         permissions:
             contents: write
         steps:
-            - uses: actions/checkout@v4
+            - name: Set up Ruby
+              uses: actions/setup-ruby@v1
+              with:
+                ruby-version: '3.x' # Specify your Ruby version
+
+            - name: Checkout code
+              uses: actions/checkout@v4
               with:
                   ref: main
                   token: ${{ secrets.GITHUB_TOKEN }}
-            - name: Generate Changelog
+
+            - name: Install dependencies
               run: |
-                  export PATH="$PATH:/home/runner/.local/share/gem/ruby/3.0.0/bin"
-                  gem install --user-install github_changelog_generator
-                  github_changelog_generator \
+                gem install github_changelog_generator
+
+            - name: Generate changelog
+              run: github_changelog_generator \
                     -u ${{ github.repository_owner }} \
                     -p ${{ github.event.repository.name }} \
                     --token ${{ secrets.GITHUB_TOKEN }}
+
             - name: Commit Changelog
               uses: stefanzweifel/git-auto-commit-action@v5
               with:
