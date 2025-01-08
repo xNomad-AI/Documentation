@@ -1,6 +1,6 @@
 # AI-NFT कैसे काम करता है?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/xx" alt="" class="gitbook-drawing">
 
 यह डायग्राम AI-NFTs की आर्किटेक्चर और कार्यक्षमता को दर्शाता है।  
 
