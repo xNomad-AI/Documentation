@@ -1,6 +1,6 @@
 # การทำงานของ AI-NFT
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 ภาพนี้แสดงโครงสร้างและการทำงานของ AI-NFT
 
@@ -17,5 +17,5 @@
 หากต้องการรายละเอียดเพิ่มเติมเกี่ยวกับเมตะดาต้าของ AI-NFT โปรดตรวจสอบหน้านี้:
 
 {% content-ref url="ai-nft-metadata.md" %}
-[ai-nft-metadata-th.md](ai-nft-metadata-th.md)
+[ai-nft-metadata.md](ai-nft-metadata.md)
 {% endcontent-ref %}
