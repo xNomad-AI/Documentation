@@ -1,6 +1,6 @@
 # AI-NFT Hoạt động như thế nào?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Sơ đồ này minh họa kiến trúc và chức năng của AI-NFTs.
 
