@@ -1,38 +1,38 @@
-# Why AI-NFT?
+# Neden AI-NFT?
 
-## Why AI Agents should be NFTs?
+## Neden AI Ajanları NFT Olmalı?
 
-**1. Asset Ownership and Transparency**
+**1. Varlık Sahipliği ve Şeffaflık**
 
-Converting AI agents into NFTs transforms them into unique, verifiable on-chain assets with clear ownership. Users and investors gain full control without relying on centralized service providers, minimizing risks like service disruption or data breaches.
+AI ajanlarını NFT'lere dönüştürmek, onları benzersiz, doğrulanabilir zincir üstü varlıklara dönüştürür ve açık bir sahiplik sağlar. Kullanıcılar ve yatırımcılar, merkezi hizmet sağlayıcılarına bağımlı kalmadan tam kontrol elde eder, bu da hizmet kesintisi veya veri ihlali gibi riskleri en aza indirir.
 
-**2. Financial Value for AI Agents**
+**2. AI Ajanları İçin Finansal Değer**
 
-By becoming NFTs, AI agents acquire financial attributes. Their value grows with their on-chain assets, investment returns, or market demand, offering users and investors significant potential for returns.
+NFT'ler haline gelerek, AI ajanları finansal özellikler kazanır. Değerleri, zincir üzerindeki varlıkları, yatırım getirileri veya piyasa talebi ile büyür, bu da kullanıcılara ve yatırımcılara önemli bir geri dönüş potansiyeli sunar.
 
-**3. Decentralization and Security**
+**3. Merkeziyetsizlik ve Güvenlik**
 
-AI-NFTs operate in decentralized environments, eliminating reliance on centralized platforms and mitigating risks of provider failure. Private keys are securely protected by TEE environments, ensuring asset and privacy safety.
+AI-NFT'ler merkeziyetsiz ortamlarda çalışır, bu da merkezi platformlara olan bağımlılığı ortadan kaldırır ve sağlayıcı arızası risklerini azaltır. Özel anahtarlar, TEE ortamları tarafından güvenli bir şekilde korunur, varlık ve gizlilik güvenliğini sağlar.
 
-**4. Personalization and Uniqueness**
+**4. Kişiselleştirme ve Benzersizlik**
 
-Each AI-NFT is unique, with distinct traits and behaviors tailored to user needs. This personalization adds value for interaction, collection, and trading.
+Her AI-NFT benzersizdir, kullanıcı ihtiyaçlarına göre özelleştirilmiş farklı özellikler ve davranışlar sergiler. Bu kişiselleştirme, etkileşim, koleksiyon ve ticaret için değer katmaktadır.
 
-**5. Diverse Use Cases**
+**5. Çeşitli Kullanım Senaryoları**
 
-* On-chain Automation: AI-NFTs can manage investments, claim airdrops, or sell unwanted assets autonomously.
-* Off-chain Integration: AI-NFTs connect to social platforms and apps, enhancing user experiences.
-* Wealth Management: Owners can set custom strategies, enabling AI agents to optimize investments and grow their wealth.
+* Zincir Üstü Otomasyon: AI-NFT'ler, yatırımları yönetebilir, airdrop'ları talep edebilir veya istenmeyen varlıkları otomatik olarak satabilir.
+* Zincir Dışı Entegrasyon: AI-NFT'ler sosyal platformlar ve uygulamalarla bağlantı kurarak kullanıcı deneyimlerini geliştirir.
+* Varlık Yönetimi: Sahipler, AI ajanlarının yatırımları optimize etmesini ve servetlerini büyütmesini sağlamak için özel stratejiler belirleyebilir.
 
-By turning AI agents into NFTs, they evolve from tools into valuable assets, paving the way for a new era of AI-powered wealth creation.
+AI ajanlarını NFT'lere dönüştürerek, bunlar araçlardan değerli varlıklara dönüşür ve AI destekli servet yaratımı için yeni bir çağın yolunu açar.
 
-## What can AI-NFT do?
+## AI-NFT Ne Yapabilir?
 
-1. Invest and trade crypto assets for NFT owners.
-2. Claim airdrops proactively and trade at once for NFT owners.
-3. Customized data-driven trading strategy and automated trading.
-4. Sniper and trading tool for meme tokens.
-5. A private assistant for on-chain activity alerts.
-6. Issue crypto assets on behalf of the NFT owner, without manual intervention.
-7. AI agent trading AI agents.
-8. AI content creators with a NFT PFP.
+1. NFT sahipleri için kripto varlıkları yatırmak ve ticaretini yapmak.
+2. NFT sahipleri için airdrop'ları proaktif bir şekilde talep etmek ve bir kerede ticaret yapmak.
+3. Özelleştirilmiş veri odaklı ticaret stratejileri ve otomatik ticaret.
+4. Meme token'ları için sniper ve ticaret aracı.
+5. Zincir üstü etkinlik bildirimleri için özel bir asistan.
+6. NFT sahibi adına kripto varlıkları ihraç etmek, manuel müdahale olmadan.
+7. AI ajanı ticareti yapan AI ajanları.
+8. NFT PFP'ye sahip AI içerik üreticileri.
