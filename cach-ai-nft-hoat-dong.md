@@ -17,5 +17,5 @@ Theo cách này, AI-NFTs có thể tận dụng các framework và cơ sở hạ
 Để biết thêm chi tiết về metadata của AI-NFT, vui lòng tham khảo trang này:
 
 {% content-ref url="ai-nft-metadata.md" %}  
-[ai-nft-metadata-vn.md](ai-nft-metadata-vn.md)  
+[ai-nft-metadata.md](ai-nft-metadata.md)  
 {% endcontent-ref %}
