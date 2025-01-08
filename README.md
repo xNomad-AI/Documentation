@@ -4,7 +4,7 @@
 
 # परिचय
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/xx" alt=""><figcaption></figcaption></figure>
 
 ## AI-NFT क्या है?
 
