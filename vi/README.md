@@ -4,7 +4,7 @@
 
 # Giới thiệu
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## AI-NFT là gì?
 
