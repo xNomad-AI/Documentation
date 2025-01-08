@@ -1,6 +1,6 @@
 # AI-NFT 是如何运作的？
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 此图展示了 AI-NFT 的架构与功能。
 

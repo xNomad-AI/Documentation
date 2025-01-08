@@ -4,7 +4,8 @@ description: 拥有 AI-NFT 即是拥有 AI 代理。
 
 # 简介
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+
 
 ## 什么是 AI-NFT？
 
