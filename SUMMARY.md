@@ -1,4 +1,4 @@
-# Table of contents
+**İçindekiler**
 
 * [Introduction](README.md)
 * [Why AI-NFT?](why-ai-nft.md)
