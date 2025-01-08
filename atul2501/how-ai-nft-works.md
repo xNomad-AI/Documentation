@@ -1,4 +1,4 @@
-"# AI-NFT कैसे काम करता है?
+# AI-NFT कैसे काम करता है?
 
 <img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
@@ -18,4 +18,4 @@ AI-NFT मेटाडेटा के बारे में अधिक ज�
 
 {% content-ref url="ai-nft-metadata.md" %}
 [ai-nft-metadata.md](ai-nft-metadata.md)  
-{% endcontent-ref %}"
+{% endcontent-ref %}
