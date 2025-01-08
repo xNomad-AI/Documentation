@@ -1,6 +1,6 @@
 # AI-NFT는 어떻게 작동하나요?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 이 다이어그램은 AI-NFT의 아키텍처와 기능을 설명합니다.&#x20;
 

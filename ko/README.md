@@ -4,7 +4,7 @@ description: AI-NFT를 소유하면, AI 에이전트를 소유하는 것과 같�
 
 # 소개
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## AI-NFT란 무엇인가?
 
