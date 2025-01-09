@@ -1,4 +1,4 @@
-# Table of contents
+**# Talahanayan ng Nilalaman**
 
 * [Introduction](README.md)
 * [Why AI-NFT?](why-ai-nft.md)
