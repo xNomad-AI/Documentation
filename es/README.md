@@ -4,6 +4,8 @@ description: You own AI-NFT, you own AI agents.
 
 # Introduction
 
+
+
 <figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## ¿Qué es AI-NFT?
