@@ -1,10 +1,8 @@
----
-description: Anda memiliki AI-NFT, anda memiliki agen AI.
----
+Description: Anda memiliki AI-NFT, anda memiliki agen AI.
 
 # Pengenalan
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## Apa itu AI-NFT?
 
