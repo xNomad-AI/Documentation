@@ -6,9 +6,9 @@ This diagram illustrates the architecture and functionality of AI-NFTs.&#x20;
 
 The key component an AI-NFT needs:
 
-* An extended NFT metadata with AI agent's character config file.
-* A general NFT contract.
-* A runtime in TEE with Eliza installed.
+- An extended NFT metadata with AI agent's character config file.
+- A general NFT contract.
+- A runtime in TEE with Eliza installed.
 
 In this way, AI-NFTs can utilize existing frameworks and infrastructure. By embedding the AI agent’s character file JSON into an NFT metadata and deploying it on the blockchain, the AI agent seamlessly transforms into an on-chain asset.
 
