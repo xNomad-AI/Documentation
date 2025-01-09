@@ -1,52 +1,52 @@
-# AI-NFT Meta Verisi
+# Metadata AI-NFT
 
-AI-NFT'ler oluşturmak, geleneksel NFT'lere benzer, ancak ek bir `ai_agent` alanı vardır; bu alan, AI ajanının yapılandırmasını ve kullandığı motoru tanımlar ve meta verilerinde saklanır.
+Membuat AI-NFT mirip dengan NFT tradisional, **dengan** tambahan field `ai_agent` yang menggambarkan konfigurasi agen AI dan mesin yang digunakannya, yang disimpan dalam metadata.
 
-## Desteklenen AI Motoru <a href="#metadata-json" id="metadata-json"></a>
+## Mesin AI yang Didukung <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Motor</th><th width="231">Motor Adı</th><th>Karakter Dosyası</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> by ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Dokümantasyon</a></li><li><a href="https://github.com/elizaOS/characterfile">Şablon</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Örnek</a></li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="224">Mesin</th><th width="231">Nama Mesin</th><th>File Karakter</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> oleh ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Dokumentasi</a></li><li><a href="https://github.com/elizaOS/characterfile">Template</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Contoh</a></li></ul></td></tr></tbody></table>
 
-## AI-NFT Meta Verisi JSON <a href="#metadata-json" id="metadata-json"></a>
+## JSON Metadata AI-NFT <a href="#metadata-json" id="metadata-json"></a>
 
-| Alan                         | Tür    | Açıklama                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **ai\_agent** (Yeni eklenen)  | nesne | <p>Bu NFT ile bağlantılı AI ajanını tanımlayan yapılandırma.</p><ul><li><strong>engine</strong> (string): AI ajanını çalıştırmak için kullanılan motor. Varsayılan olarak "eliza".</li><li><strong>character</strong> (nesne): Bir AI ajanını tanımlayan karakter dosyası JSON'u. <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">Buraya</a> bakın.</li></ul>                                                                                                  |
-| **name**                     | string | Varlığın adı.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **description**              | string | Varlığın açıklaması.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **image**                    | string | Varlığın logosuna işaret eden URI.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **animation\_url**           | string | Varlığın animasyonuna işaret eden URI.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **external\_url**            | string | Varlığın tanımlandığı dış bir URL'ye işaret eden URI — örneğin, oyunun ana sitesi.                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **attributes**               | dizi   | <p>Varlığın özelliklerini tanımlayan özellikler dizisi.</p><ul><li><strong>trait_type</strong> (string): Özelliğin türü.</li><li><strong>value</strong> (string): O özelliğin değeri.</li></ul>                                                                                                                                                                                                                                                                                               |
-| **properties**               | nesne  | <p>Varlığı tanımlayan ek özellikler.</p><ul><li><p><strong>files</strong> (dizi): Varlıkla birlikte dahil edilecek ek dosyalar.</p><ul><li><strong>uri</strong> (string): Dosyanın URI'si.</li><li><strong>type</strong> (string): Dosyanın türü. Örneğin <code>image/png</code>, <code>video/mp4</code> vb.</li><li><strong>cdn</strong> (boolean, isteğe bağlı): Dosyanın bir CDN üzerinden sunulup sunulmadığı.</li></ul></li><li><strong>category</strong> (string): Varlık için bir medya kategorisi. Örneğin <code>video</code>, <code>image</code> vb.</li></ul> |
+| Field                        | Tipe   | Deskripsi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ai\_agent** (Ditambahkan Baru)  | objek | <p>Konfigurasi yang mendefinisikan agen AI yang terhubung dengan NFT ini.</p><ul><li><strong>engine</strong> (string): mesin yang digunakan untuk menjalankan agen AI. Default adalah "eliza".</li><li><strong>character</strong> (objek): file karakter JSON yang menggambarkan agen AI. Lihat <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">di sini</a>.</li></ul>                                                                                                                                                                                     |
+| **name**                     | string | Nama dari aset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **description**              | string | Deskripsi dari aset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **image**                    | string | URI yang menunjuk ke logo aset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **animation\_url**           | string | URI yang menunjuk ke animasi aset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **external\_url**            | string | URI yang menunjuk ke URL eksternal yang mendefinisikan aset — misalnya situs utama game.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **attributes**               | array  | <p>Array atribut yang mendefinisikan karakteristik dari aset.</p><ul><li><strong>trait_type</strong> (string): Jenis atribut.</li><li><strong>value</strong> (string): Nilai untuk atribut tersebut.</li></ul>                                                                                                                                                                                                                                                                                                                                        |
+| **properties**               | objek | <p>Properti tambahan yang mendefinisikan aset.</p><ul><li><p><strong>files</strong> (array): File tambahan untuk disertakan dengan aset.</p><ul><li><strong>uri</strong> (string): URI file.</li><li><strong>type</strong> (string): Jenis file. Misalnya <code>image/png</code>, <code>video/mp4</code>, dll.</li><li><strong>cdn</strong> (boolean, opsional): Apakah file disajikan dari CDN.</li></ul></li><li><strong>category</strong> (string): Kategori media untuk aset. Misalnya <code>video</code>, <code>image</code>, dll.</li></ul> |
 
-## Örnek
+## Contoh
 
 ```json
 {
-  // AI ajanı alanı
+  // field agen AI
   ai_agent: {
     engine: "eliza",
     character: {
-      // ajan adı
+      // nama agen
       name:"eliza",
-      // arka plan açıklamaları
+      // pernyataan latar belakang
       bio: [
-        "Biyografi satırları, rastgele bir sırayla bir araya getirilebilen kısa parçalar halinde yazılır.",
-        "Biyografinin her bağlamda sadece bir kısmının rastgele seçilmesi, entropiyi artırdığı için tercih edilir.",
-        "Bu 'entropi', olası çıktılar dağılımını genişletir, bu da daha çeşitli ancak sürekli olarak alakalı yanıtlar sağlar."
+        "Bio adalah setiap potongan pendek yang dapat digabungkan secara acak.",
+        "Kami menemukan bahwa hal ini meningkatkan entropi dengan merandom dan memilih hanya sebagian dari bio untuk setiap konteks.",
+        "Entropi ini berfungsi untuk memperluas distribusi hasil yang mungkin, yang seharusnya memberi jawaban yang lebih bervariasi namun tetap relevan."
       ],
       lore: [
-        "Lore satırları, tıpkı biyografi gibi rastgele bir sırayla bir araya getirilebilen kısa parçalardır.",
-        "Ancak bunlar genellikle biyografik satırlardan daha az biyografik ve daha çok gerçek ya da tarihsel olurlar.",
-        "Lore satırları, karakterin veya başlarına gelenlerin sohbet geçmişlerinden ve tweet'lerden çıkarılabilir.",
-        "Lore da rastgeleleştirilmeli ve entropi artırmak için örneklenmelidir."
-        ],
-      ... //xxx.character.json https://github.com/elizaOS/eliza/tree/main/characters'dan
+        "Lore adalah setiap potongan pendek yang dapat digabungkan secara acak, seperti bio",
+        "Namun ini biasanya lebih faktual atau historis dan kurang biografis dibandingkan dengan bio",
+        "Lore dapat diekstraksi dari chatlog dan tweet tentang hal-hal yang dialami oleh karakter atau yang terjadi pada mereka",
+        "Lore juga harus dirandomisasi dan diambil sampelnya untuk meningkatkan entropi dalam konteks"
+      ],
+      ... //xxx.character.json dari https://github.com/elizaOS/eliza/tree/main/characters
     }
   },
-  // tipik NFT meta veri standardı
-  name: 'Benim NFT\'m',
-  description: 'Bu, Solana üzerinde bir NFT\'dir',
+  // metadata standar NFT
+  name: 'NFT Saya',
+  description: 'Ini adalah NFT di Solana',
   image: imageUri[0],
   external_url: 'https://example.com',
   attributes: [
