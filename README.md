@@ -4,8 +4,6 @@ description: You own AI-NFT, you own AI agents.
 
 # Introduction
 
-
-
 <figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## What is AI-NFT?
@@ -28,12 +26,12 @@ If you could own your own AI agent and have it perform intelligent, automated ta
 
 Every AI-NFT has these exciting features:
 
-* Based on [Eliza](https://github.com/elizaos/eliza) by [@ai16zdao](https://x.com/ai16zdao), each NFT is an independent AI agent with a unique configuration and personality.
-* The AI agent runs in a secure TEE environment with their own crypto wallets, ensuring private keys remain untouchable.
-* The AI agent can independently invest and trade crypto assets, with NFT owners able to withdraw the assets they hold. **The AI-NFT’s value will grow with its AI agent’s assets.**
-* Each AI-NFT has a unique personality and communication style based on its traits.
-* NFT owners can set customized on-chain workflow, like auto-trading, investment, claiming airdrop,  Defi-related actions, etc.
-* The AI agent can also connect to social platforms like Telegram, Twitter bots and live stream.
+- Based on [Eliza](https://github.com/elizaos/eliza) by [@ai16zdao](https://x.com/ai16zdao), each NFT is an independent AI agent with a unique configuration and personality.
+- The AI agent runs in a secure TEE environment with their own crypto wallets, ensuring private keys remain untouchable.
+- The AI agent can independently invest and trade crypto assets, with NFT owners able to withdraw the assets they hold. **The AI-NFT’s value will grow with its AI agent’s assets.**
+- Each AI-NFT has a unique personality and communication style based on its traits.
+- NFT owners can set customized on-chain workflow, like auto-trading, investment, claiming airdrop, Defi-related actions, etc.
+- The AI agent can also connect to social platforms like Telegram, Twitter bots and live stream.
 
 ## The benefits of owning an AI-NFT
 
@@ -42,4 +40,3 @@ Every AI-NFT has these exciting features:
 3. AI-NFTs are transferable. The value of assets held by an AI-NFT is reflected in its own market value.
 4. Fully decentralized AI agents ensure their functionality and assets are secure, with no risk of service providers disappearing.
 5. More that you can imagine...
-
