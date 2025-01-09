@@ -4,7 +4,7 @@ descripción: Eres dueño de NFT de IA, eres dueño de agentes de IA.
 
 # Introducción
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## ¿Qué es AI-NFT?
 
