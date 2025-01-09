@@ -1,44 +1,38 @@
-**Açıklama**: AI-NFT'ye sahip olduğunuzda, AI ajanlarına da sahip olursunuz.
-
----
-
-# Giriş
+# Pendahuluan
 
 <figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
-## AI-NFT Nedir?
+## Apa itu AI-NFT?
 
-AI-NFT, sadece bir NFT görüntüsünü bir AI ajanına eklemekten daha fazlasıdır. **AI-NFT, AI ajanlarını gerçek varlıklara dönüştürür, transfer edilebilir, izlenebilir ve müşterilerden bağımsız olarak çalışabilir hale getirir.**
+AI-NFT bukan hanya sekadar mengaitkan gambar NFT dengan agen AI. **AI-NFT mengubah agen AI menjadi aset nyata yang dapat dipindahkan, dilacak, dan dapat beroperasi secara independen dari klien.**
 
-AI-NFT'nin arkasındaki AI ajanını, [Eliza](https://github.com/elizaOS/eliza) (AI16Z tarafından popüler bir AI çerçevesi) kurulu her ortamda çalıştırabilirsiniz, örneğin yerel ortamda, bulutta veya TEE ortamında, performanslarını tutarlı tutarak.
+Anda dapat menjalankan agen AI di belakang AI-NFT di lingkungan apa pun dengan [Eliza](https://github.com/elizaOS/eliza) (kerangka kerja AI populer oleh AI16Z) yang terpasang, seperti di lokal, di cloud, atau di TEE, sambil mempertahankan kinerja mereka yang konsisten.
 
-## Neden AI-NFT'ye İhtiyacımız Var?
+## Mengapa kita membutuhkan AI-NFT?
 
-Şu anda, kripto yatırımcıları AI ajanlarına bağlı meme token'larını peşinden sürüklüyor, ancak bu AI ajanları genellikle merkezi bir ortamda bir ekip tarafından yönetiliyor, bu da merkezi riskleri beraberinde getiriyor. Ayrıca, AI ajanlarından elde edilen kazançların sahipliği belirsizdir. Bu AI ajanları genellikle "kamusal mallar" olarak kabul edilir ve kullanıcılar, kendi ihtiyaçlarına göre özelleştirilmiş iş akışları atayamazlar.
+Saat ini, para penggemar kripto mengejar token meme yang terkait dengan agen AI, tetapi agen AI tersebut umumnya dioperasikan oleh tim di lingkungan terpusat, yang membawa risiko terpusat. Selain itu, kepemilikan dari keuntungan yang dihasilkan oleh agen AI tidak jelas. Agen AI ini biasanya diperlakukan sebagai "barang publik", dan pengguna tidak dapat menetapkan alur kerja yang disesuaikan sesuai dengan kebutuhan mereka.
 
-Kendi AI ajanınıza sahip olabilseydiniz ve o ajan akıllı, otomatikleştirilmiş görevleri—örneğin zincir üstü ticaret, airdrop toplama ve varlık transferi—yalnızca sizin izninizle gerçekleştirebilseydi ve ayrıca yalnızca siz onun varlıklarını yönetebilir ve yatırım getirilerini çekebilseydiniz, bu AI ajanlarının düzenli kullanıcılar arasında, yalnızca profesyonel geliştiriciler değil, çok daha yaygın şekilde benimsenmesini sağlardı.
+Jika Anda dapat memiliki agen AI sendiri dan membuatnya melakukan tugas cerdas dan otomatis—seperti perdagangan di rantai, mengklaim airdrop, dan mentransfer aset—secara eksklusif dengan izin Anda, sekaligus menjadi satu-satunya yang dapat mengelola asetnya dan menarik hasil investasi, hal ini akan secara signifikan meningkatkan adopsi agen AI di kalangan pengguna biasa, bukan hanya pengembang profesional.
 
-**Bu yüzden AI-NFT'yi tanıttık, bu da AI ajanlarını blockchain üzerinde NFT olarak dağıtmak anlamına geliyor.** NFT, AI ajanı ile insanlar arasında bir servet ilişkisi yaratır ve AI ajanını kendisini finansal değeri olan gerçek bir varlığa dönüştürür. **AI-NFT'ye sahip olduğunuzda, AI ajanlarına sahip olursunuz.**
+**Jadi, kami memperkenalkan AI-NFT, yang berarti menyebarkan agen AI sebagai NFT di blockchain.** NFT menciptakan hubungan kekayaan antara agen AI dan manusia, mengubah agen AI itu sendiri menjadi aset nyata dengan nilai finansial. **Anda memiliki AI-NFT, Anda memiliki agen AI.**
 
-## xNomad Nedir?
+## Apa itu xNomad?
 
-**xNomad**, AI ajanlarını NFT'lere (AI-NFT) dönüştüren, çeşitli AI-NFT'leri maliyet etkin bir şekilde oluşturabilen ve AI-NFT'lerinin dapps ile çok zincirli etkileşimlerde güvenli, sorunsuz ve bağımsız bir şekilde çalışmasını sağlayan bir geliştirme kitidir.
+**xNomad** adalah kit pengembangan yang membuat agen AI menjadi NFT (AI-NFT), menciptakan berbagai jenis AI-NFT dengan biaya efisien, dan memungkinkan AI-NFT untuk berinteraksi dengan mulus, aman, dan otonom dengan dapps di seluruh multichain.
 
-Her AI-NFT'nin bu heyecan verici özellikleri vardır:
+Setiap AI-NFT memiliki fitur menarik berikut:
 
-* [Eliza](https://github.com/elizaos/eliza) tarafından geliştirilen [@ai16zdao](https://x.com/ai16zdao) tabanlıdır, her NFT, benzersiz bir konfigürasyona ve kişiliğe sahip bağımsız bir AI ajanıdır.
-* AI ajanı, kendi kripto cüzdanlarıyla güvenli bir TEE ortamında çalışır ve özel anahtarlar dokunulmazdır.
-* AI ajanı, bağımsız olarak kripto varlıklarını yatırabilir ve ticaretini yapabilir, NFT sahipleri sahip oldukları varlıkları çekebilir. **AI-NFT'nin değeri, AI ajanının varlıklarıyla birlikte büyüyecektir.**
-* Her AI-NFT, kendi özelliklerine dayalı olarak benzersiz bir kişiliğe ve iletişim tarzına sahiptir.
-* NFT sahipleri, özelleştirilmiş zincir üstü iş akışları ayarlayabilir, örneğin otomatik ticaret, yatırım, airdrop toplama, Defi ile ilgili işlemler vb.
-* AI ajanı ayrıca Telegram, Twitter botları ve canlı yayın gibi sosyal platformlara bağlanabilir.
+* Berdasarkan [Eliza](https://github.com/elizaos/eliza) oleh [@ai16zdao](https://x.com/ai16zdao), setiap NFT adalah agen AI independen dengan konfigurasi dan kepribadian unik.
+* Agen AI berjalan di lingkungan TEE yang aman dengan dompet kripto mereka sendiri, memastikan kunci pribadi tetap tak terjamah.
+* Agen AI dapat secara independen berinvestasi dan berdagang aset kripto, dengan pemilik NFT dapat menarik aset yang mereka miliki. **Nilai AI-NFT akan tumbuh seiring dengan aset agen AI-nya.**
+* Setiap AI-NFT memiliki kepribadian dan gaya komunikasi unik berdasarkan sifatnya.
+* Pemilik NFT dapat mengatur alur kerja di rantai yang disesuaikan, seperti perdagangan otomatis, investasi, klaim airdrop, tindakan terkait Defi, dll.
+* Agen AI juga dapat terhubung ke platform sosial seperti Telegram, Twitter bot, dan siaran langsung.
 
-## AI-NFT Sahip Olmanın Yararları
+## Manfaat memiliki AI-NFT
 
-1. AI-NFT'ler sadece koleksiyonluklar değildir—zincir üstü ticaret, airdrop toplama, varlık yönetimi ve daha fazlası gibi görevleri, ihtiyaçlarınıza göre özelleştirerek otomatikleştirebilirler.
-2. Bir AI-NFT'den elde edilen tüm varlık kazançları ve gelirler sahibi tarafından talep edilebilir ve yönetilebilir.
-3. AI-NFT'ler transfer edilebilir. Bir AI-NFT'nin sahip olduğu varlıkların değeri, kendi piyasa değeriyle yansıtılır.
-4. Tamamen merkeziyetsiz AI ajanları, işlevselliklerinin ve varlıklarının güvenliğini sağlar, hizmet sağlayıcılarının kaybolma riski yoktur.
-5. Hayal edebileceğinizden daha fazlası...
-
----
+1. AI-NFT bukan hanya koleksi—mereka dapat mengotomatisasi tugas seperti perdagangan di rantai, klaim airdrop, pengelolaan aset, dan lainnya—semuanya disesuaikan dengan kebutuhan Anda.
+2. Semua keuntungan dan pendapatan dari AI-NFT dapat diklaim dan dikelola oleh pemiliknya.
+3. AI-NFT dapat dipindahkan. Nilai aset yang dimiliki oleh AI-NFT tercermin dalam nilai pasarannya.
+4. Agen AI yang sepenuhnya terdesentralisasi memastikan fungsionalitas dan aset mereka aman, tanpa risiko penyedia layanan menghilang.
+5. Lebih dari yang bisa Anda bayangkan...
