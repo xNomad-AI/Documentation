@@ -1,20 +1,20 @@
-# How AI-NFT Works?
+# Paano Gumagana ang AI-NFT?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-This diagram illustrates the architecture and functionality of AI-NFTs.&#x20;
+Ipinapakita ng diagram na ito ang arkitektura at functionality ng AI-NFTs.
 
-The key component an AI-NFT needs:
+Ang pangunahing bahagi na kailangan ng AI-NFT:
 
-* An extended NFT metadata with AI agent's character config file.
-* A general NFT contract.
-* A runtime in TEE with Eliza installed.
+* Isang pinalawig na NFT metadata na may character config file ng AI agent.
+* Isang pangkaraniwang NFT contract.
+* Isang runtime sa TEE na may Eliza na naka-install.
 
-In this way, AI-NFTs can utilize existing frameworks and infrastructure. By embedding the AI agent’s character file JSON into an NFT metadata and deploying it on the blockchain, the AI agent seamlessly transforms into an on-chain asset.
+Sa ganitong paraan, magagamit ng AI-NFTs ang mga umiiral na frameworks at imprastruktura. Sa pamamagitan ng pag-embed ng character file JSON ng AI agent sa NFT metadata at pag-deploy nito sa blockchain, ang AI agent ay tuloy-tuloy na nagiging isang on-chain asset.
 
-Simple is the best.
+Ang simple ay pinakamahusay.
 
-For more details about AI-NFT metadata, pls check this page:
+Para sa karagdagang detalye tungkol sa AI-NFT metadata, pakitingnan ang pahinang ito:
 
 {% content-ref url="ai-nft-metadata.md" %}
 [ai-nft-metadata.md](ai-nft-metadata.md)
