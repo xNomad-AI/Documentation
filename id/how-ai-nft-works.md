@@ -1,20 +1,20 @@
-# AI-NFT Nasıl Çalışır?
+# Bagaimana AI-NFT Bekerja?
 
 <img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-Bu diyagram, AI-NFT'lerin mimarisini ve işlevselliğini göstermektedir.
+Diagram ini menggambarkan arsitektur dan fungsionalitas AI-NFT.
 
-Bir AI-NFT'nin ihtiyaç duyduğu ana bileşenler:
+Komponen utama yang dibutuhkan oleh AI-NFT:
 
-* AI ajanının karakter yapılandırma dosyasına sahip genişletilmiş bir NFT meta verisi.
-* Genel bir NFT sözleşmesi.
-* Eliza'nın yüklü olduğu TEE ortamında bir çalışma zamanı.
+* Metadata NFT yang diperluas dengan file konfigurasi karakter agen AI.
+* Kontrak NFT umum.
+* Runtime di TEE dengan Eliza yang terpasang.
 
-Bu şekilde, AI-NFT'ler mevcut çerçeveleri ve altyapıyı kullanabilir. AI ajanının karakter dosyası JSON'u NFT meta verisine yerleştirilip blockchain'e dağıtıldığında, AI ajanı sorunsuz bir şekilde zincir üstü bir varlığa dönüşür.
+Dengan cara ini, AI-NFT dapat memanfaatkan framework dan infrastruktur yang ada. Dengan menyematkan file karakter agen AI dalam metadata NFT dan menyebarkannya di blockchain, agen AI dengan mulus bertransformasi menjadi aset di rantai.
 
-Basitlik en iyisidir.
+Sederhana adalah yang terbaik.
 
-AI-NFT meta verisi hakkında daha fazla detay için lütfen bu sayfayı kontrol edin:
+Untuk detail lebih lanjut tentang metadata AI-NFT, silakan periksa halaman ini:
 
 {% content-ref url="ai-nft-metadata.md" %}
 [ai-nft-metadata.md](ai-nft-metadata.md)
