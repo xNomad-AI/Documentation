@@ -2,13 +2,13 @@
 
 Crear AI-NFTs es como los NFTs tradicionales, **con** un campo adicional `ai_agent` que describe la configuración de un agente de IA y el motor que utiliza, almacenado en los metadatos.
 
-## Motor de IA Compatible
+## Motor de IA Compatible <a href="#metadata-json" id="metadata-json"></a>
 
 | Motor                                                 | Nombre del Motor | Archivo de Personaje                                                                                                                                                                                         |
 | ----------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Eliza](https://github.com/elizaOS/eliza) por ElizaOS | eliza            | - [Documentación](https://elizaos.github.io/eliza/docs/core/characterfile/)<br>- [Plantilla](https://github.com/elizaOS/characterfile)<br>- [Ejemplo](https://github.com/elizaOS/eliza/tree/main/characters) |
 
-## JSON de Metadata AI-NFT
+## JSON de Metadata AI-NFT <a href="#metadata-json" id="metadata-json"></a>
 
 | Campo                         | Tipo   | Descripción                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ----------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
