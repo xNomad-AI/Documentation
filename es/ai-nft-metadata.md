@@ -4,9 +4,7 @@ Crear AI-NFTs es como los NFTs tradicionales, **con** un campo adicional `ai_age
 
 ## Motor de IA Compatible <a href="#metadata-json" id="metadata-json"></a>
 
-| Motor                                                 | Nombre del Motor | Archivo de Personaje                                                                                                                                                                                         |
-| ----------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Eliza](https://github.com/elizaOS/eliza) por ElizaOS | eliza            | - [Documentación](https://elizaos.github.io/eliza/docs/core/characterfile/)<br>- [Plantilla](https://github.com/elizaOS/characterfile)<br>- [Ejemplo](https://github.com/elizaOS/eliza/tree/main/characters) |
+<table><thead><tr><th width="224">Motor</th><th width="231">Nombre del motor</th><th>Archivo de personajes</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> de ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Documentación</a></li><li><a href="https://github.com/elizaOS/characterfile">Plantilla</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Ejemplo</a></li></ul></td></tr></tbody></table>
 
 ## JSON de Metadata AI-NFT <a href="#metadata-json" id="metadata-json"></a>
 
