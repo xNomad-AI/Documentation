@@ -1,8 +1,8 @@
 ---
-description: Tú posees AI-NFT, tú posees agentes de IA.
+description: You own AI-NFT, you own AI agents.
 ---
 
-# Introducción
+# Introduction
 
 <figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
