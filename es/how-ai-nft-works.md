@@ -1,8 +1,8 @@
 # ¿Cómo Funcionan los AI-NFT?
 
-[Imagen: Diagrama de Arquitectura AI-NFT]
+<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-Este diagrama ilustra la arquitectura y funcionalidad de los AI-NFTs.
+Este diagrama ilustra la arquitectura y funcionalidad de los AI-NFTs.&#x20;
 
 Los componentes clave que necesita un AI-NFT:
 
@@ -14,4 +14,8 @@ De esta manera, los AI-NFTs pueden utilizar frameworks e infraestructura existen
 
 Simple es mejor.
 
-Para más detalles sobre los metadatos de AI-NFT, consulte [Metadatos AI-NFT](ai-nft-metadata.md).
+Para obtener más detalles sobre los metadatos de AI-NFT, consulte esta página:
+
+{% content-ref url="ai-nft-metadata.md" %}
+[ai-nft-metadata.md](ai-nft-metadata.md)
+{% endcontent-ref %}
