@@ -1,8 +1,8 @@
-# Table of contents
+"# सामग्री की तालिका
 
-* [Introduction](README.md)
-* [Why AI-NFT?](why-ai-nft.md)
-* [How AI-NFT Works?](how-ai-nft-works.md)
-* [AI-NFT Metadata](ai-nft-metadata.md)
-* [Github](https://github.com/xNomad-AI)
-* [X](https://x.com/xNomadAI)
+* [परिचय](README.md)
+* [AI-NFT क्यों?](why-ai-nft.md)
+* [AI-NFT कैसे काम करता है?](how-ai-nft-works.md)
+* [AI-NFT मेटाडेटा](ai-nft-metadata.md)
+* [गिटहब](https://github.com/xNomad-AI)
+* [एक्स](https://x.com/xNomadAI)"

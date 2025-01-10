@@ -1,52 +1,55 @@
-# AI-NFT Metadata
+# Completing the translation manually and simulating full content
+translated_full_content_hindi = """
+# एआई-एनएफटी मेटाडेटा
 
-Creating AI-NFTs is just like traditional NFTs, **with** an extra field `ai_agent` that describes the configuration of an AI agent and the engine it uses, stored in the metadata.
+एआई-एनएफटी बनाना पारंपरिक एनएफटी की तरह ही है, **के साथ** एक अतिरिक्त फ़ील्ड `ai_agent`, जो एआई एजेंट की कॉन्फ़िगरेशन और उसके उपयोग किए जाने वाले इंजन का वर्णन करता है, मेटाडेटा में संग्रहित होता है।
 
-## Supported AI Engine <a href="#metadata-json" id="metadata-json"></a>
+## समर्थित एआई इंजन <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Engine</th><th width="231">Engine Name</th><th>Character File</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> by ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Documentation</a></li><li><a href="https://github.com/elizaOS/characterfile">Template</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Example</a></li></ul></td></tr></tbody></table>
+| इंजन | इंजन का नाम | कैरेक्टर फ़ाइल |
+| --- | --- | --- |
+| <a href="https://github.com/elizaOS/eliza">एलाइजा</a> द्वारा एलाइजा ओएस | eliza | <ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">डॉक्यूमेंटेशन</a></li><li><a href="https://github.com/elizaOS/characterfile">टेम्पलेट</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">उदाहरण</a></li></ul> |
 
-## AI-NFT Metadata JSON <a href="#metadata-json" id="metadata-json"></a>
+## एआई-एनएफटी मेटाडेटा JSON <a href="#metadata-json" id="metadata-json"></a>
 
-| Field                        | Type   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ai\_agent** (Newly added)  | object | <p>The configuration that define the AI agent connected with this NFT. </p><ul><li><strong>engine</strong> (string): the engine used to run the AI agent. Default as "eliza".</li><li><strong>character</strong> (object): the characterfile JSON that describes an AI agent. Check <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">here</a>.</li></ul>                                                                                                                                                                                     |
-| **name**                     | string | Name of the asset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **description**              | string | Description of the asset.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **image**                    | string | URI pointing to the asset's logo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **animation\_url**           | string | URI pointing to the asset's animation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **external\_url**            | string | URI pointing to an external URL defining the asset — e.g. the game's main site.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **attributes**               | array  | <p>Array of attributes defining the characteristics of the asset.</p><ul><li><strong>trait_type</strong> (string): The type of attribute.</li><li><strong>value</strong> (string): The value for that attribute.</li></ul>                                                                                                                                                                                                                                                                                                                                        |
-| **properties**               | object | <p>Additional properties that define the asset.</p><ul><li><p><strong>files</strong> (array): Additional files to include with the asset.</p><ul><li><strong>uri</strong> (string): The file's URI.</li><li><strong>type</strong> (string): The file's type. E.g. <code>image/png</code>, <code>video/mp4</code>, etc.</li><li><strong>cdn</strong> (boolean, optional): Whether the file is served from a CDN.</li></ul></li><li><strong>category</strong> (string): A media category for the asset. E.g. <code>video</code>, <code>image</code>, etc.</li></ul> |
+| फ़ील्ड                        | प्रकार   | विवरण                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ai\_agent** (नया जोड़ा गया)  | वस्तु | <p>कॉन्फ़िगरेशन जो एआई एजेंट को परिभाषित करता है जो इस एनएफटी से जुड़ा हुआ है।</p><ul><li><strong>इंजन</strong> (स्ट्रिंग): एआई एजेंट चलाने के लिए उपयोग किया गया इंजन। डिफ़ॉल्ट "एलाइजा"।</li><li><strong>कैरेक्टर</strong> (वस्तु): कैरेक्टर फ़ाइल JSON जो एआई एजेंट का वर्णन करती है। <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">यहां देखें</a>।</li></ul> |
+| **नाम**                     | स्ट्रिंग | संपत्ति का नाम।                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **विवरण**              | स्ट्रिंग | संपत्ति का विवरण।                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **चित्र**                    | स्ट्रिंग | संपत्ति के लोगो की ओर इशारा करता URI।                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **एनीमेशन\_url**           | स्ट्रिंग | संपत्ति की एनीमेशन की ओर इशारा करता URI।                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **बाहरी\_url**            | स्ट्रिंग | संपत्ति को परिभाषित करने वाले बाहरी URL की ओर इशारा करता URI।                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **गुण**               | सूची  | <p>गुणों की सूची जो संपत्ति की विशेषताओं को परिभाषित करती है।</p><ul><li><strong>लक्षण_प्रकार</strong> (स्ट्रिंग): विशेषता का प्रकार।</li><li><strong>मूल्य</strong> (स्ट्रिंग): उस विशेषता के लिए मूल्य।</li></ul>                                                                                                                                                                                                                                                                                                 |
+| **गुणधर्म**               | वस्तु | <p>अतिरिक्त गुण जो संपत्ति को परिभाषित करते हैं।</p><ul><li><p><strong>फ़ाइलें</strong> (सूची): संपत्ति के साथ शामिल करने के लिए अतिरिक्त फाइलें।</p><ul><li><strong>uri</strong> (स्ट्रिंग): फाइल का URI।</li><li><strong>प्रकार</strong> (स्ट्रिंग): फाइल का प्रकार। जैसे <code>image/png</code>, <code>video/mp4</code>, आदि।</li><li><strong>cdn</strong> (बूलियन, वैकल्पिक): क्या फाइल CDN से सर्व की गई है।</li></ul></li><li><strong>श्रेणी</strong> (स्ट्रिंग): संपत्ति के लिए एक मीडिया श्रेणी। जैसे <code>वीडियो</code>, <code>छवि</code>, आदि।</li></ul> |
 
-## Example
+## उदाहरण
 
 ```json
 {
-  // AI agent field
+  // एआई एजेंट फ़ील्ड
   ai_agent: {
     engine: "eliza",
     character: {
-      // agent name
+      // एजेंट का नाम
       name:"eliza",
-      // background statements
+      // पृष्ठभूमि कथन
       bio: [
-        "Bio lines are each short snippets which can be composed together in a random order.",
-        "We found that it increases entropy to randomize and select only part of the bio for each context.",
-        "This 'entropy' serves to widen the distribution of possible outputs, which should give more varied but continuously relevant answers."
+        "बायो लाइनें छोटे अंश होते हैं जो एक यादृच्छिक क्रम में एक साथ रखे जा सकते हैं।",
+        "हमने पाया कि यह एन्ट्रॉपी बढ़ाने के लिए उपयोगी है, जब बायो का केवल हिस्सा ही संदर्भ के लिए चुना जाए।",
+        "यह 'एन्ट्रॉपी' संभावित आउटपुट के वितरण को व्यापक बनाती है, जो अधिक विविध लेकिन लगातार प्रासंगिक उत्तर प्रदान करना चाहिए।"
       ],
       lore: [
-        "Lore lines are each short snippets which can be composed together in a random order, just like bio",
-        "However these are usually more factual or historical and less biographical than biographical lines",
-        "Lore lines can be extracted from chatlogs and tweets as things that the character or that happened to them",
-        "Lore should also be randomized and sampled from to increase entropy in the context"
+        "लोर लाइनें भी बायो की तरह छोटे अंश होते हैं, लेकिन ये आम तौर पर अधिक तथ्यात्मक या ऐतिहासिक होते हैं।",
+        "लोर चैटलॉग और ट्वीट्स से निकाली जा सकती है, जो चरित्र द्वारा कही गई बातें या उनके साथ हुई घटनाएं हैं।",
+        "लोर को यादृच्छिक और नमूना किया जाना चाहिए ताकि संदर्भ में एन्ट्रॉपी बढ़ाई जा सके।"
         ],
-      ... //xxx.character.json from https://github.com/elizaOS/eliza/tree/main/characters
+      ... //xxx.character.json से https://github.com/elizaOS/eliza/tree/main/characters
     }
   },
-  // typical NFT metadata standard
+  // सामान्य एनएफटी मेटाडेटा मानक
   name: 'My NFT',
-  description: 'This is an NFT on Solana',
+  description: 'यह सोलाना पर एक एनएफटी है',
   image: imageUri[0],
   external_url: 'https://example.com',
   attributes: [
@@ -69,4 +72,3 @@ Creating AI-NFTs is just like traditional NFTs, **with** an extra field `ai_agen
     category: 'image',
   },
 }
-```
