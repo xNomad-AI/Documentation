@@ -2,7 +2,7 @@
 description: Du äger AI-NFT, du äger AI-agenter.
 ---
 # Introduktion
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 ## Vad är AI-NFT?
 AI-NFT är inte bara att koppla en NFT-bild till en AI-agent. **AI-NFT förvandlar AI-agenter till riktiga tillgångar som är överförbara, spårbara och kan fungera oberoende av klienter.**
 Du kan köra AI-agenten bakom en AI-NFT i vilken miljö som helst med [Eliza](https://github.com/elizaOS/eliza) (ett populärt AI-ramverk av AI16Z) installerat, som lokalt, i molnet eller i TEE, medan prestandan förblir konsekvent.

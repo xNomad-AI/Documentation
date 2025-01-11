@@ -1,6 +1,6 @@
 # Hur fungerar AI-NFT?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Detta diagram illustrerar arkitekturen och funktionaliteten hos AI-NFTs.&#x20;
 
