@@ -5,7 +5,7 @@ description: Te birtoklod az AI-NFT-t, te birtoklod az AI-ügynököket.
 
 # Bevezetés
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## Mi az AI-NFT?
 
