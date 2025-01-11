@@ -1,6 +1,6 @@
 # AI-NFT এর কাজ করার পদ্ধতি
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 এই ডায়াগ্রামটি AI-NFT এর আর্কিটেকচার এবং কার্যকারিতা প্রদর্শন করে।&#x20;
 
