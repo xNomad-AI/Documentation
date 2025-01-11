@@ -1,20 +1,22 @@
-# How AI-NFT Works?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+# AI-NFT کیسے کام کرتا ہے؟
 
-This diagram illustrates the architecture and functionality of AI-NFTs.&#x20;
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
-The key component an AI-NFT needs:
+یہ ڈایاگرام AI-NFT کی ساخت اور افعال کو دکھاتا ہے۔
 
-* An extended NFT metadata with AI agent's character config file.
-* A general NFT contract.
-* A runtime in TEE with Eliza installed.
+AI-NFT کے لیے درکار بنیادی اجزاء درج ذیل ہیں:
 
-In this way, AI-NFTs can utilize existing frameworks and infrastructure. By embedding the AI agent’s character file JSON into an NFT metadata and deploying it on the blockchain, the AI agent seamlessly transforms into an on-chain asset.
+- AI ایجنٹ کے کردار کی سیٹنگز فائل پر مشتمل ایک توسیعی NFT میٹاڈیٹا
+- ایک عمومی NFT معاہدہ
+- Eliza کے ساتھ نصب کردہ TEE (Trusted Execution Environment) پر رن ٹائم
 
-Simple is the best.
+اس طریقے سے AI-NFT موجودہ فریم ورک اور انفراسٹرکچر کو استعمال کر سکتا ہے۔
+AI ایجنٹ کے کردار کی فائل (JSON فارمیٹ) کو NFT میٹاڈیٹا میں شامل کرکے اور اسے بلاک چین پر شائع کرکے، AI ایجنٹ کو آسانی سے آن چین اثاثہ میں تبدیل کیا جا سکتا ہے۔
 
-For more details about AI-NFT metadata, pls check this page:
+سادگی سب سے بہتر ہے۔
+
+AI-NFT میٹاڈیٹا کے بارے میں مزید تفصیلات کے لیے نیچے دیے گئے صفحہ کو دیکھیں۔
 
 {% content-ref url="ai-nft-metadata.md" %}
 [ai-nft-metadata.md](ai-nft-metadata.md)

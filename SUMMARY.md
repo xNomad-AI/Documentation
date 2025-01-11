@@ -1,8 +1,8 @@
-# Table of contents
+# فہرست
 
-* [Introduction](README.md)
-* [Why AI-NFT?](why-ai-nft.md)
-* [How AI-NFT Works?](how-ai-nft-works.md)
-* [AI-NFT Metadata](ai-nft-metadata.md)
-* [Github](https://github.com/xNomad-AI)
+* [تعارف](README.md)
+* [AI-NFT کیوں؟](why-ai-nft.md)
+* [AI-NFT کیسے کام کرتا ہے؟](how-ai-nft-works.md)
+* [AI-NFT میٹاڈیٹا](ai-nft-metadata.md)
+* [گِٹ ہب](https://github.com/xNomad-AI)
 * [X](https://x.com/xNomadAI)
