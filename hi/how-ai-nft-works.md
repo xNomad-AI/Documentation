@@ -1,6 +1,6 @@
 # एआई-एनएफटी का कार्य करने का तरीका
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 यह डायग्राम एआई-एनएफटी की आर्किटेक्चर और कार्यक्षमता को दर्शाता है।  
 
