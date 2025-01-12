@@ -1,6 +1,6 @@
 # Pendahuluan
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## Apa itu AI-NFT?
 
