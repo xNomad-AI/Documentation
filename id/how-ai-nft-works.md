@@ -1,6 +1,6 @@
 # Bagaimana AI-NFT Bekerja?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Diagram ini menggambarkan arsitektur dan fungsionalitas AI-NFT.
 
