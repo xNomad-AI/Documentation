@@ -41,4 +41,3 @@ Minden AI-NFT izgalmas funkciókkal rendelkezik:
 3. Az AI-NFT-k átruházhatók. Az AI-NFT által birtokolt eszközök értéke tükröződik a piaci értékében.
 4. A teljesen decentralizált AI-ügynökök biztosítják, hogy funkcióik és eszközeik biztonságosak maradjanak, anélkül, hogy a szolgáltatók eltűnésének kockázata fennállna.
 5. És még sok minden más, amit elképzelhetsz...
-```
