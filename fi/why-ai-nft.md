@@ -1,4 +1,3 @@
-markdown
 # Miksi AI-NFT?
 
 ## Miksi tekoälyagenttien tulisi olla NFT:itä?
