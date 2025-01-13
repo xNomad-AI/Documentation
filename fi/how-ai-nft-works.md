@@ -1,7 +1,6 @@
-markdown
 # Kuinka AI-NFT toimii?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Tämä kaavio havainnollistaa AI-NFT:iden arkkitehtuuria ja toiminnallisuutta.&#x20;
 
