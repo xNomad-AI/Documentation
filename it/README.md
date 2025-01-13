@@ -37,5 +37,6 @@ Ogni AI-NFT ha queste entusiasmanti caratteristiche:
 
 1. Gli AI-NFT non sono solo oggetti da collezione, possono automatizzare attività come il trading on-chain, la richiesta di airdrop, la gestione di risorse e altro ancora, il tutto personalizzato in base alle tue esigenze.
 2. Tutti i guadagni e i guadagni delle risorse di un AI-NFT possono essere richiesti e gestiti dal suo proprietario.
-3. Gli AI-NFT sono trasferibili. Il valore delle risorse detenute da un AI-NFT si riflette nel suo valore di mercato. 4. Gli agenti AI completamente decentralizzati garantiscono la sicurezza delle loro funzionalità e risorse, senza il rischio che i fornitori di servizi scompaiano.
+3. Gli AI-NFT sono trasferibili. Il valore delle risorse detenute da un AI-NFT si riflette nel suo valore di mercato.
+4. Gli agenti AI completamente decentralizzati garantiscono la sicurezza delle loro funzionalità e risorse, senza il rischio che i fornitori di servizi scompaiano.
 5. Più di quanto tu possa immaginare...
