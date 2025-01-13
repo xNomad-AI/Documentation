@@ -1,4 +1,3 @@
-markdown
 # AI-NFT Metadata
 
 AI-NFT:iden luominen on kuin perinteisten NFT:iden luominen, **mutta** siihen lisätään ylimääräinen kenttä `ai_agent`, joka kuvaa tekoälyagentin konfiguraation ja käyttämän moottorin, tallennettuna metadataan.
