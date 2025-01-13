@@ -39,5 +39,6 @@ Każdy AI-NFT ma następujące ekscytujące funkcje:
 
 1. AI-NFT to nie tylko przedmioty kolekcjonerskie — mogą one automatyzować zadania, takie jak handel w łańcuchu, odbieranie airdropów, zarządzanie aktywami i wiele innych — wszystko dostosowane do Twoich potrzeb.
 2. Wszystkie zyski i dochody z aktywów z AI-NFT mogą być odbierane i zarządzane przez jego właściciela.
-3. AI-NFT są zbywalne. Wartość aktywów posiadanych przez AI-NFT znajduje odzwierciedlenie w jego własnej wartości rynkowej. 4. W pełni zdecentralizowani agenci AI zapewniają bezpieczeństwo swojej funkcjonalności i zasobów, bez ryzyka zniknięcia dostawców usług.
+3. AI-NFT są zbywalne. Wartość aktywów posiadanych przez AI-NFT znajduje odzwierciedlenie w jego własnej wartości rynkowej.
+4. W pełni zdecentralizowani agenci AI zapewniają bezpieczeństwo swojej funkcjonalności i zasobów, bez ryzyka zniknięcia dostawców usług.
 5. Więcej, niż możesz sobie wyobrazić...
