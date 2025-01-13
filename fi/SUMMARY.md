@@ -1,4 +1,3 @@
-markdown
 # Sisällysluettelo
 
 * [Johdanto](README.md)
