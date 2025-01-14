@@ -8,7 +8,7 @@ description : Vous possédez un AI-NFT, vous possédez des agents IA.
 
 ## Qu'est-ce que l'AI-NFT ?
 
-L'AI-NFT ne consiste pas simplement à attacher une image NFT à un agent IA. ** L'AI-NFT transforme les agents IA en actifs réels transférables, traçables et capables de fonctionner indépendamment des clients.**
+L'AI-NFT ne consiste pas simplement à attacher une image NFT à un agent IA. **L'AI-NFT transforme les agents IA en actifs réels transférables, traçables et capables de fonctionner indépendamment des clients.**
 
 Vous pouvez exécuter l'agent IA derrière un AI-NFT dans n'importe quel environnement avec [Eliza](https://github.com/elizaOS/eliza) (un framework IA populaire d'AI16Z) installé, comme en local, dans le cloud ou dans TEE, tout en gardant leurs performances cohérentes.
 

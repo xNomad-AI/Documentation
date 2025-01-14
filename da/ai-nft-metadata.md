@@ -8,16 +8,16 @@ Oprettelse af AI-NFT'er er ligesom traditionelle NFT'er, **med** et ekstra felt 
 
 ## AI-NFT Metadata JSON <a href="#metadata-json" id="metadata-json"></a>
 
-| Felt | Skriv | Beskrivelse |
-| ---------------------------- | ------ | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------------------------------------- |
-| **ai\_agent** (nyt tilføjet) | objekt | <p>Konfigurationen, der definerer AI-agenten forbundet med denne NFT. </p><ul><li><strong>motor</strong> (streng): motoren, der bruges til at køre AI-agenten. Standard som "eliza".</li><li><strong>karakter</strong> (objekt): karakterfilen JSON, der beskriver en AI-agent. Tjek <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">her</a>.</li></ul> |
-| **navn** | streng | Aktivets navn. |
-| **beskrivelse** | streng | Beskrivelse af aktivet. |
-| **billede** | streng | URI, der peger på aktivets logo. |
-| **animation\_url** | streng | URI, der peger på aktivets animation. |
-| **ekstern\_url** | streng | URI, der peger på en ekstern URL, der definerer aktivet - f.eks. spillets hovedside. |
-| **attributter** | række | <p>Array af attributter, der definerer aktivets karakteristika.</p><ul><li><strong>trait_type</strong> (streng): Typen af ​​attribut.</li><li><strong> værdi</strong> (streng): Værdien for den attribut.</li></ul> |
-| **ejendomme** | objekt | <p>Yderligere egenskaber, der definerer aktivet.</p><ul><li><p><strong>filer</strong> (array): Yderligere filer, der skal inkluderes med aktivet.</p><ul> <li><strong>uri</strong> (streng): Filens URI.</li><li><strong>type</strong> (streng): Filens type. F.eks. <code>image/png</code>, <code>video/mp4</code> osv.</li><li><strong>cdn</strong> (boolesk, valgfrit): Om filen vises fra et CDN.</li></ul></li><li><strong>kategori</strong> (streng): En mediekategori for aktivet. F.eks. <code>video</code>, <code>image</code> osv.</li></ul> |
+| Felt                | Skriv  | Beskrivelse |
+|---------------------|--------|-------------|
+| **ai\_agent**       | objekt | Konfigurationen, der definerer AI-agenten forbundet med denne NFT. <ul><li><strong>motor</strong> (streng): motoren, der bruges til at køre AI-agenten. Standard som "eliza".</li><li><strong>karakter</strong> (objekt): karakterfilen JSON, der beskriver en AI-agent. Tjek <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">her</a>.</li></ul> |
+| **navn**            | streng | Aktivets navn. |
+| **beskrivelse**     | streng | Beskrivelse af aktivet. |
+| **billede**         | streng | URI, der peger på aktivets logo. |
+| **animation\_url**  | streng | URI, der peger på aktivets animation. |
+| **ekstern\_url**    | streng | URI, der peger på en ekstern URL, der definerer aktivet - f.eks. spillets hovedside. |
+| **attributter**     | række  | Array af attributter, der definerer aktivets karakteristika. <ul><li><strong>trait_type</strong> (streng): Typen af ​​attribut.</li><li><strong>værdi</strong> (streng): Værdien for den attribut.</li></ul> |
+| **ejendomme**       | objekt | Yderligere egenskaber, der definerer aktivet. <ul><li><strong>filer</strong> (array): Yderligere filer, der skal inkluderes med aktivet. <ul><li><strong>uri</strong> (streng): Filens URI.</li><li><strong>type</strong> (streng): Filens type. F.eks. <code>image/png</code>, <code>video/mp4</code> osv.</li><li><strong>cdn</strong> (boolesk, valgfrit): Om filen vises fra et CDN.</li></ul></li><li><strong>kategori</strong> (streng): En mediekategori for aktivet. F.eks. <code>video</code>, <code>image</code> osv.</li></ul> |
 
 ## Eksempel
 
