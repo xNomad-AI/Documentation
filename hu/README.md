@@ -1,4 +1,3 @@
-markdown
 ---
 description: Te birtoklod az AI-NFT-t, te birtoklod az AI-ügynököket.
 ---

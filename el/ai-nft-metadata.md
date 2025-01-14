@@ -4,12 +4,12 @@
 
 ## Υποστηριζόμενη μηχανή AI <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Μηχανή</th><th width="231">Όνομα κινητήρα</th><th>Αρχείο χαρακτήρων</th></tr>< /thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> από ElizaOS</td><td>eliza</td>< td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Τεκμηρίωση</a></li><li><a href="https://github.com/elizaOS/ characterfile">Πρότυπο</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Παράδειγμα</a></li></ul></td></tr></tbody></table >
+<table><thead><tr><th width="224">Μηχανή</th><th width="231">Όνομα κινητήρα</th><th>Αρχείο χαρακτήρων</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> από ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Τεκμηρίωση</a></li><li><a href="https://github.com/elizaOS/ characterfile">Πρότυπο</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Παράδειγμα</a></li></ul></td></tr></tbody></table >
 
 ## Μεταδεδομένα AI-NFT JSON <a href="#metadata-json" id="metadata-json"></a>
 
 | Πεδίο | Τύπος | Περιγραφή |
-| ----------------------------- | ------ | -------------------------------------------------- ------------------- -------------------------------------------------- ------------------- -------------------------------------------------- ------------------- -------------------------------------------------- ------------------- -------------------------------------------------- ------------------- -------------------------------------------------- ------------------- -------------------------------------------------- ------------------- -------------------------------------------------- -------------------- |
+| ----- | ----- | --------- |
 | **ai\_agent** (Προστέθηκε πρόσφατα) | αντικείμενο | <p>Η διαμόρφωση που καθορίζει τον πράκτορα AI που συνδέεται με αυτό το NFT. </p><ul><li><strong>μηχανή</strong> (string): ο κινητήρας που χρησιμοποιείται για τη λειτουργία του παράγοντα AI. Προεπιλογή ως "eliza".</li><li><strong>χαρακτήρας</strong> (αντικείμενο): το αρχείο χαρακτήρων JSON που περιγράφει έναν πράκτορα AI. Ελέγξτε <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">εδώ</a>.</li></ul> |
 | **όνομα** | χορδή | Όνομα του περιουσιακού στοιχείου. |
 | **περιγραφή** | χορδή | Περιγραφή του περιουσιακού στοιχείου. |

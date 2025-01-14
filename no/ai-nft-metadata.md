@@ -4,20 +4,20 @@
 
 ## Støttet AI-motor <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Motor</th><th width="231">Motornavn</th><th>Tegnfil</th></tr>< /thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> av ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Dokumentasjon</ a></li><li><a href="https://github.com/elizaOS/characterfile">Mal</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Eksempel</a></li></ul></td></tr></tbody></table >
+<table><thead><tr><th width="224">Motor</th><th width="231">Motornavn</th><th>Tegnfil</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> av ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Dokumentasjon</ a></li><li><a href="https://github.com/elizaOS/characterfile">Mal</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Eksempel</a></li></ul></td></tr></tbody></table >
 
 ## AI-NFT Metadata JSON <a href="#metadata-json" id="metadata-json"></a>
 
-| Felt | Skriv | Beskrivelse |
-| ---------------------------- | ------ | -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------------------------------------- |
-| **ai\_agent** (Nylig lagt til) | objekt | <p>Konfigurasjonen som definerer AI-agenten som er koblet til denne NFT. </p><ul><li><strong>motor</strong> (streng): motoren som brukes til å kjøre AI-agenten. Standard som "eliza".</li><li><strong>karakter</strong> (objekt): karakterfilen JSON som beskriver en AI-agent. Sjekk <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">her</a>.</li></ul> |
-| **navn** | streng | Navnet på eiendelen. |
-| **beskrivelse** | streng | Beskrivelse av eiendelen. |
-| **bilde** | streng | URI som peker til innholdselementets logo. |
-| **animasjon\_url** | streng | URI som peker til innholdselementets animasjon. |
-| **ekstern\_url** | streng | URI som peker til en ekstern URL som definerer ressursen – f.eks. spillets hovedside. |
-| **attributter** | rekke | <p>Array av attributter som definerer egenskapene til eiendelen.</p><ul><li><strong>trekktype</strong> (streng): attributttypen.</li><li><strong> verdi</strong> (streng): Verdien for det attributtet.</li></ul> |
-| **eiendommer** | objekt | <p>Ytterligere egenskaper som definerer ressursen.</p><ul><li><p><strong>filer</strong> (matrise): Ytterligere filer som skal inkluderes med ressursen.</p><ul> <li><strong>uri</strong> (streng): Filens URI.</li><li><strong>type</strong> (streng): Filens type. f.eks. <code>image/png</code>, <code>video/mp4</code> osv.</li><li><strong>cdn</strong> (boolsk, valgfritt): Om filen blir servert fra et CDN.</li></ul></li><li><strong>kategori</strong> (streng): En mediekategori for ressursen. f.eks. <code>video</code>, <code>bilde</code> osv.</li></ul> |
+| Felt              | Type   | Beskrivelse                                                                                                                                                                                                 |
+| ----------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ai_agent** (Nylig lagt til)     | objekt | Konfigurasjonen som definerer AI-agenten som er koblet til denne NFT. <ul><li><strong>motor</strong> (streng): motoren som brukes til å kjøre AI-agenten. Standard som "eliza".</li><li><strong>karakter</strong> (objekt): karakterfilen JSON som beskriver en AI-agent. Sjekk <a href="https://github.com/elizaOS/characterfile?tab=readme-ov-file">her</a>.</li></ul> |
+| **navn**          | streng | Navnet på eiendelen.                                                                                                                                                                                         |
+| **beskrivelse**   | streng | Beskrivelse av eiendelen.                                                                                                                                                                                    |
+| **bilde**         | streng | URI som peker til innholdselementets logo.                                                                                                                                                                   |
+| **animasjon_url** | streng | URI som peker til innholdselementets animasjon.                                                                                                                                                              |
+| **ekstern_url**   | streng | URI som peker til en ekstern URL som definerer ressursen – f.eks. spillets hovedside.                                                                                                                        |
+| **attributter**   | rekke  | Array av attributter som definerer egenskapene til eiendelen. <ul><li><strong>trekktype</strong> (streng): attributttypen.</li><li><strong>verdi</strong> (streng): Verdien for det attributtet.</li></ul>    |
+| **eiendommer**    | objekt | Ytterligere egenskaper som definerer ressursen. <ul><li><strong>filer</strong> (matrise): Ytterligere filer som skal inkluderes med ressursen. <ul><li><strong>uri</strong> (streng): Filens URI.</li><li><strong>type</strong> (streng): Filens type. f.eks. <code>image/png</code>, <code>video/mp4</code> osv.</li><li><strong>cdn</strong> (boolsk, valgfritt): Om filen blir servert fra et CDN.</li></ul></li><li><strong>kategori</strong> (streng): En mediekategori for ressursen. f.eks. <code>video</code>, <code>bilde</code> osv.</li></ul> |
 
 ## Eksempel
 
