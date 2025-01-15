@@ -4,7 +4,7 @@ Vytváření AI-NFT je stejné jako u tradičních NFT, **s** dalším polem `ai
 
 ## Podporovaný AI engine <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Engine</th><th width="231">Název motoru</th><th>Soubor znaků</th></tr>< /thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> od ElizaOS</td><td>eliza</td>< td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Dokumentace</a></li><li><a href="https://github.com/elizaOS/ characterfile">Šablona</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Příklad</a></li></ul></td></tr></tbody></table >
+<table><thead><tr><th width="224">Engine</th><th width="231">Název motoru</th><th>Soubor znaků</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> od ElizaOS</td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">Dokumentace</a></li><li><a href="https://github.com/elizaOS/ characterfile">Šablona</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">Příklad</a></li></ul></td></tr></tbody></table >
 
 ## AI-NFT Metadata JSON <a href="#metadata-json" id="metadata-json"></a>
 
