@@ -1,6 +1,6 @@
 # AI-NFT Kɛnɛya Ni?
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 Diagram yi bɛɛ fɔlɔ architecture ani functionality ka AI-NFTs.
 

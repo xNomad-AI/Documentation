@@ -4,7 +4,7 @@ description: I ni tɔɔrɔ AI-NFT, i ni tɔɔrɔ AI agents.
 
 # Fɔlɔ
 
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## AI-NFT bɛɛnɛ?
 
