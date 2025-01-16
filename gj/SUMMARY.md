@@ -1,6 +1,6 @@
 # સામગ્રીઓનું કોષ્ટક
 
-* [Introduction](README.md)
+* [Introduction](README.MD)
 * [Why AI-NFT?](why-ai-nft.md)
 * [How AI-NFT Works?](how-ai-nft-works.md)
 * [AI-NFT Metadata](ai-nft-metadata.md)
