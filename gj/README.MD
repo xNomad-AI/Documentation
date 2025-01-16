@@ -4,3 +4,4 @@
 
 # પરિચય
 
+<figure><img src="../.gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
