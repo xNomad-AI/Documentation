@@ -4,7 +4,7 @@ AI-NFTs બનાવવું એ પરંપરાગત NFTs જેવું 
 
 ## સપોર્ટેડ AI એન્જિન <a href="#metadata-json" id="metadata-json"></a>
 
-<table><thead><tr><th width="224">Engine</th><th width="231">એન્જિનનું નામ</th><th>કેરેક્ટર ફાઇલ</th></tr>< /thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> ElizaOS દ્વારા</td><td>એલિઝા</td>< td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">દસ્તાવેજીકરણ</a></li><li><a href="https://github.com/elizaOS/ characterfile">ટેમ્પલેટ</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">ઉદાહરણ</a></li></ ul></td></tr></tbody></table>
+<table><thead><tr><th width="224">એન્જિન</th><th width="231">એન્જિનનું નામ</th><th>કેરેક્ટર ફાઇલ</th></tr></thead><tbody><tr><td><a href="https://github.com/elizaOS/eliza">Eliza</a> ElizaOS દ્વારા </td><td>eliza</td><td><ul><li><a href="https://elizaos.github.io/eliza/docs/core/characterfile/">દસ્તાવેજીકરણ</a></li><li><a href="https://github.com/elizaOS/characterfile">ટેમ્પલેટ</a></li><li><a href="https://github.com/elizaOS/eliza/tree/main/characters">ઉદાહરણ</a></li></ul></td></tr></tbody></table>
 
 ## AI-NFT મેટાડેટા JSON <a href="#metadata-json" id="metadata-json"></a>
 
