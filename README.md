@@ -1,12 +1,24 @@
 ---
 description: You own AI-NFT, you own AI agents.
+cover: .gitbook/assets/xnomad-cover.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Introduction
-
-
-
-<figure><img src=".gitbook/assets/xnomad.png" alt=""><figcaption></figcaption></figure>
 
 ## What is AI-NFT?
 
