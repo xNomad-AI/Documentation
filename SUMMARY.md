@@ -2,11 +2,18 @@
 
 * [Introduction](README.md)
 * [Why AI-NFT?](why-ai-nft.md)
-* [How AI-NFT Works?](how-ai-nft-works.md)
-* [AI-NFT Metadata](ai-nft-metadata.md)
-* [xNomad.fun](xnomad.fun/README.md)
-  * [Airdrop Proxy](xnomad.fun/airdrop-proxy.md)
+* [xNomad.fun](xnomad.fun.md)
 * [Genesis NFT](genesis-nft.md)
+* [Tokenomics](tokenomics.md)
+
+## Technology
+
+* [How AI-NFT Works?](technology/how-ai-nft-works.md)
+* [AI-NFT Metadata](technology/ai-nft-metadata.md)
+* [Airdrop Proxy](technology/airdrop-proxy.md)
+* [Neuro Net](technology/neuro-net/README.md)
+  * [Neuro Node](technology/neuro-net/neuro-node.md)
+  * [DePIN Connector](technology/neuro-net/depin-connector.md)
 
 ## Links
 
