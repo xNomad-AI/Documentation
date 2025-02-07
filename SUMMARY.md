@@ -2,7 +2,9 @@
 
 * [Introduction](README.md)
 * [Why AI-NFT?](why-ai-nft.md)
-* [xNomad.fun](xnomad.fun.md)
+* [xNomad.fun](xnomad.fun/README.md)
+  * [AI Agent Function](xnomad.fun/ai-agent-function.md)
+  * [Create an AI-NFT](xnomad.fun/create-an-ai-nft.md)
 * [Genesis NFT](genesis-nft.md)
 * [Tokenomics](tokenomics.md)
 
