@@ -1,24 +1,19 @@
 # Neuro Node
 
-**Neuro Node** is an open-source software that runs a super node of xNomad Neuro Net. It provides worldwide, permissionless, and high-availability AI agent services for users and developers.
+**Neuro Node is an open-source AI agent service node and the smallest technical unit of** [**Neuro Net**](./)**.** It provides worldwide, permissionless, and high-availability AI agent services for users and developers.
 
-Operating a Neuro Node can earn you revenue and a share of the transaction fees on Neuro Net.
+In technical overview, Neuro Node is:
 
-In overview, Neuro Node is:
-
-* Blockchain access node,
-* AI-NFT indexer,
-* AI Agent runtime powered by ElizaOS and TEE,
-* Knowledge base,
-* Incentive layer.
+* A Blockchain access node,
+* An AI-NFT indexer,
+* An AI Agent runtime powered by ElizaOS and TEE,
+* A Knowledge base server,
+* A CDN edge node.
 
 ## Requirement
 
-If you want to run a Neuro node, you need to
-
-* have the eligibility yourself or be delegated by an eligible entity,
-* stake a certain mount of $\[REDACTED].
+TBD
 
 ## How to Access Decentralized AI Agents?
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

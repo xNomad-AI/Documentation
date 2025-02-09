@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/20250124-185245.png
+cover: .gitbook/assets/20250124-185245.png
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,9 @@ layout:
 
 # xNomad.fun
 
-**xNomad.fun is a groundbreaking open-source smart terminal that connects AI agents with crypto assets.** Powered by [ElizaOS](https://elizaos.ai) framework, it enables users to create, customize, and engage with AI agents, while transforming them into non-fungible tokens (NFT).
+**xNomad.fun is a groundbreaking open-source smart terminal that connects AI agents with crypto assets.** Powered by [ElizaOS](https://elizaos.ai) framework, it enables users to create, trade, customize, and engage with AI agents, while transforming them into non-fungible tokens (NFT).
+
+In the early stages, xNomad.fun will focus on enhancing AI agents’ on-chain operations and real-time data access from both on-chain and off-chain sources. In the future, it will evolve into a multi-agent economy, providing autonomous strategies, behavior monitoring, and asset-yielding features.
 
 ## Core Features
 
@@ -58,8 +60,6 @@ Contribute to a community-driven, open-source platform. Build plugins, enhance f
 As your AI agent’s influence and capabilities grow, it can become a valuable asset on the marketplace. The agent's social **media impact**, **profitability strategies**, and **earnings potential** can be leveraged as key selling points when listing it as an AI-NFT.&#x20;
 
 This enables you to cultivate your agent, increasing its value through enhanced performance and community impact. Once your agent has reached its full potential, you can sell it to other users and earn profits, or buy other agents to amplify your own earnings.&#x20;
-
-
 
 ## Links
 

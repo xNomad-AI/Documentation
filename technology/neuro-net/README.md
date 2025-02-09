@@ -1,34 +1,33 @@
----
-hidden: true
----
-
 # Neuro Net
 
 ## Introduction
 
-**xNomad Neuro Net(XNN)** is an AI data availability(AIDA) layer for on-chain AI agents. **The goal of XNN is to provide decentralized AI agents service with high security, availability and scalability.**
+**xNomad Neuro Net(XNN)** is an open-source distributed AI agents network that **provides global access to decentralized AI agents system with high security, availability and scalability.** The smallest technical unit of Neuro Net is [Neuro Node](neuro-node.md).
 
 The vision of XNN is to become:
 
 * ths most used gateway to access AI agents globally,
 * the world's largest decentralized AI agents store,&#x20;
-* the world's most active and healthy AI agents economy.
+* the world's most active and sustainable multi-agent economy,
+* the core infrastructure of AGI.
 
-**All the AI agents running on Neuro Net are AI-NFTs based on** [**ElizaOS**](https://elizaos.ai)**.**
+**Neuro Node is powered by** [**ElizaOS**](https://elizaos.ai)**. All the AI agents running on Neuro Net are AI-NFTs.**
 
 ## Architecture
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Neuro Net** is composed of the following key modules:
 
-* **AIDA(AI Data Availability) Layer**: Ensures the availability of AI agents by providing robust services for indexing, operating and managing AI-NFTs on multiple blockchains, as well as offering scalability and composability.
-* **AI Agent Launchpad**: An open-source launchpad to let normal people create customized AI agents as they like seamlessly.
-* **Agent Marketplace:** Allows users to buy, sell, lend and borrow AI agents on any general or dedicated AI-NFT marketplaces.
-* **Wallet Management:** a secure multi-chain crypto wallet management service powered by [TEE](https://en.wikipedia.org/wiki/Trusted_execution_environment).
+* **AIAA(AI Agent Availability) Layer**: Ensures the availability of AI agents by providing robust services. It includes three modules:
+  * **AI-NFT Indexer:** Indexes AI-NFTs from the blockchain, efficiently storing and caching them for fast access.
+  * **AI Agent Runtime:** Provides essential and reliable core services to ensure AI agents run efficiently and securely, powered by [TEE](https://en.wikipedia.org/wiki/Trusted_execution_environment).
+  * [**ElizaOS**](https://elizaos.ai): An open-source AI agent framework developerd by Eliza Labs.
+* **Agent Launchpad**: An open-source platform that enables anyone without a technical background to create and customize AI agents as they like seamlessly.
+* **Agent Marketplace:** An open-source marketplace protocol that allows users to buy, sell, lend and borrow AI agents on any general or dedicated AI-NFT marketplaces.
+* **Wallet Management:** A secure wallet (such as a multi-chain crypto wallet or CEX account) management service powered by [TEE](https://en.wikipedia.org/wiki/Trusted_execution_environment).
 * [**DePIN Connector**](depin-connector.md): Natively integrates with DePIN, allowing decentralized access to external data interfaces to gather various forms of external feedback.
 * **Blockchain:** Provide native support for AI agents to interact with multiple blockchains like Solana, ETH, Base, etc.&#x20;
-* [**ElizaOS**](https://elizaos.ai): An open-source AI agent framework developerd by Eliza Labs.
 
 ## Why We Need Neuro Net?
 
@@ -45,6 +44,16 @@ In the near future, billions of AI agents will be created to solve diverse probl
 To deploy, manage, and access these agents efficiently and securely at such a large scale, we must develop a decentralized infrastructure. **This infrastructure should offer permissionless, reliable, and secure access, ensuring both authorization and protection of privacy for all AI agents.**
 
 That's why **xNomad Neuro Net** was created.
+
+## How to Join Neuro Net?
+
+Neuro Net is currently in the architecture design and proof-of-concept stage. We will gradually implement Neuro Net using the XNomad open-source framework and ElizaOS in a progressive manner.
+
+The smallest technical unit in Neuro Net is the [Neuro Node](neuro-node.md). The upstream repository for Neuro Node is [xnomad/core](https://github.com/xNomad-AI/core).
+
+{% content-ref url="neuro-node.md" %}
+[neuro-node.md](neuro-node.md)
+{% endcontent-ref %}
 
 ## What Neuro Net Means to Consumers?
 
