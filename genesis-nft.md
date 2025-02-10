@@ -27,6 +27,7 @@ xNomad Genesis NFT is the first truly autonomous experimental AI-NFT collection.
 * $AI16Z and $ELIZA will be airdropped to AI-NFT's wallet (in TEE).
 * Token allocation.
 * Tons of airdrops and WL spots from collabs community.
+* Service fee discount on [xNomad.fun](xnomad.fun.md).
 
 ## Where to buy?
 
