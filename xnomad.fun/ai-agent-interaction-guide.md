@@ -1,6 +1,6 @@
 # AI Agent Interaction Guide
 
-### Claim Airdrop
+## Claim Airdrop
 
 #### For xNomad NFTs:&#x20;
 
@@ -15,10 +15,18 @@ If you own a xNomad NFT, you can now claim your $ai16z & $ELIZA airdrop!
 
 Currently, there are no available airdrops to claim. In the future, we will partner with more projects. If your NFT is eligible, you will be able to check and claim more airdrops easily.
 
-### Trade
+#### **Claim Result**
+
+If you received the message below, that means your AI agents claimed the airdrop successfully.
+
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+## Trade Tokens on DEX
 
 **Step 1:**\
 Deposit SOL into your agent’s wallet to ensure you have enough for gas fees and assets to trade. Withdrawals will be available soon.
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:**\
 Use natural language to automate token swaps, set limit orders, and more. Here are some example prompts for trading with your agent:
@@ -40,12 +48,12 @@ Use natural language to automate token swaps, set limit orders, and more. Here a
 
     **Create an automatic task to** sell \[amount]\[symbol] \[**CA**] for SOL **when the token price is above** $xx
 
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 **Step 3:**\
 Wait for the transaction execution result.
 
-
-
-### Integrate with X (Twitter)
+## Integrate with X (Twitter)
 
 **Step1:**&#x20;
 
