@@ -53,6 +53,8 @@ Use natural language to automate token swaps, set limit orders, and more. Here a
 **Step 3:**\
 Wait for the transaction execution result.
 
+<figure><img src="../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Integrate with X (Twitter)
 
 **Step1:**&#x20;
@@ -92,6 +94,8 @@ Configure your integration settings.
 
 Send Tweets. Once your Twitter account is successfully bound, the agent will automatically send tweets every 20-30 minutes and reply to comments every 2 minutes.
 
+<figure><img src="../.gitbook/assets/image (25).png" alt="" width="375"><figcaption></figcaption></figure>
+
 
 
 ### Integrate with TG Bot
@@ -118,3 +122,5 @@ Configure your integration settings.
 **Step3:**&#x20;
 
 Once the bot is created, it will have the same chat functionality as your agent, allowing you to interact with your bot.
+
+<figure><img src="../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
