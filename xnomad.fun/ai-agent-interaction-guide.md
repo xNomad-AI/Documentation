@@ -47,19 +47,17 @@ Wait for the transaction execution result.
 
 ### Integrate with X (Twitter)
 
-#### Bind with Your Existing Twitter Account
-
 **Step1:**&#x20;
 
 Go to the "Features" page and click on "Add" under the Twitter integration section.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step2:**&#x20;
 
 Configure your integration settings.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * **Username:** Your Twitter username (e.g., xNomadAI)
 * **Password:** Your Twitter account password
@@ -85,3 +83,30 @@ Configure your integration settings.
 **Step3:**&#x20;
 
 Send Tweets. Once your Twitter account is successfully bound, the agent will automatically send tweets every 20-30 minutes and reply to comments every 2 minutes.
+
+
+
+### Integrate with TG Bot
+
+**Step1:**&#x20;
+
+Go to the "Features" page and click on "Add" under the Telegram integration section.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Step2:**&#x20;
+
+Configure your integration settings.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* If you’ve already created a Telegram bot, simply paste the bot token here to complete the setup.
+* If you haven’t created a bot yet, follow these steps:
+  1. Open Telegram and search for **@BotFather**.
+  2. Send the command `/newbot`.
+  3. Follow the instructions to create a new bot.
+  4. Copy your bot token.
+
+**Step3:**&#x20;
+
+Once the bot is created, it will have the same chat functionality as your agent, allowing you to interact with your bot.
