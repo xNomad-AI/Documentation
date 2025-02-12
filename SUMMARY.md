@@ -5,6 +5,7 @@
 * [xNomad.fun](xnomad.fun.md)
   * [AI Agent Function](xnomad.fun/ai-agent-function.md)
   * [Create an AI-NFT](xnomad.fun/create-an-ai-nft.md)
+  * [AI Agent Interaction Guide](xnomad.fun/ai-agent-interaction-guide.md)
 * [Genesis NFT](genesis-nft.md)
 * [Tokenomics](tokenomics.md)
 

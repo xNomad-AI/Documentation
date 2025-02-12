@@ -15,7 +15,7 @@ The vision of XNN is to become:
 
 ## Architecture
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Neuro Net** is composed of the following key modules:
 
