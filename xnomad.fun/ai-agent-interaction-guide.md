@@ -98,7 +98,7 @@ Send Tweets. Once your Twitter account is successfully bound, the agent will aut
 
 
 
-### Integrate with TG Bot
+## Integrate with TG Bot
 
 **Step1:**&#x20;
 
