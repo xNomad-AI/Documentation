@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Agent Marketplace
 
 > This feature is under development.
