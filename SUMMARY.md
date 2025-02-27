@@ -9,7 +9,7 @@
     * [Create a Swarm](xnomad.fun/agent-launchpad/create-a-swarm.md)
   * [On-chain Interaction](xnomad.fun/on-chain-interaction.md)
   * [Social Integration](xnomad.fun/social-integration.md)
-  * [Task Scheduling](xnomad.fun/task-scheduling.md)
+  * [Task Manegement](xnomad.fun/task-manegement.md)
   * [Agent Token](xnomad.fun/agent-token.md)
   * [Agent Marketplace](xnomad.fun/agent-marketplace.md)
 * [Genesis NFT](genesis-nft.md)

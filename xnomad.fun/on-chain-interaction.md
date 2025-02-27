@@ -25,7 +25,7 @@ If you received the message below, that means your AI agents claimed the airdrop
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-## Trade Tokens on DEX
+## Trade Tokens
 
 **Step 1:**\
 Deposit SOL into your agent’s wallet to ensure you have enough for gas fees and assets to trade. Withdrawals will be available soon.
