@@ -8,7 +8,7 @@ All the AI-NFTs on xNomad.fun have comprehensive on-chain capabilities, just lik
 
 #### For xNomad NFTs:&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 If you own a xNomad NFT, you can now claim your $ai16z & $ELIZA airdrop!
 
@@ -25,36 +25,107 @@ If you received the message below, that means your AI agents claimed the airdrop
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-## Trade Tokens
+## Trade
 
-**Step 1:**\
+**Step 1: Deposit assets**\
 Deposit SOL into your agent’s wallet to ensure you have enough for gas fees and assets to trade. Withdrawals will be available soon.
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-**Step 2:**\
+**Step 2:** Send instructions
+
+Perform trade operations using shortcut buttons or natural language.
+
+1. Generate Instructions with Shortcut Buttons:
+   1.  Click the trade button.
+
+
+
+       <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+   2.  Select the transaction type and fill out the form. Enter the ticker or CA to quickly locate the token you wish to trade.
+
+
+
+       <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+   3. Submit the form, which will automatically generate the corresponding natural language instructions and send the command.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
+2. Send Instructions Using Natural Language:
+
 Use natural language to automate token swaps, set limit orders, and more. Here are some example prompts for trading with your agent:
 
-*   Buy:
+* Buy: Buy **\[symbol] \[CA]** with **\[amount]** SOL
+* Sell: Sell **\[amount] \[symbol] \[CA]** for SOL
+* Swap:
+  * swap **\[amount]** SOL for **\[symbol] \[CA]**
+  * swap **\[amount]\[symbol] \[ca]** for **\[symbol] \[CA]**
+* Set limit order:
+  * **Create an automatic task to** buy \[symbol] \[**CA**] with \[amount] SOL **when the token price is under** $xx
+  * **Create an automatic task to** sell \[amount]\[symbol] \[**CA**] for SOL **when the token price is above** $xx
 
-    Buy **\[symbol] \[CA]** with **\[amount]** SOL
-*   Sell:
+<figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
 
-    Sell **\[amount] \[symbol] \[CA]** for SOL
-*   Swap:
-
-    swap **\[amount]** SOL for **\[symbol] \[CA]**
-
-    swap **\[amount]\[symbol] \[ca]** for **\[symbol] \[CA]**
-*   Set limit order:
-
-    **Create an automatic task to** buy \[symbol] \[**CA**] with \[amount] SOL **when the token price is under** $xx
-
-    **Create an automatic task to** sell \[amount]\[symbol] \[**CA**] for SOL **when the token price is above** $xx
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
-
-**Step 3:**\
-Wait for the transaction execution result.
+**Step 3: Secondary confirmation and check result**\
+Wait for the transaction execution result after secondary confirmation.
 
 <figure><img src="../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Analyze
+
+**Step 1: Send instructions**
+
+Perform operations using shortcut buttons or natural language.
+
+1.  Generate Instructions with Shortcut Buttons.
+
+    1. Click the ‘Analyze’ button and fill out the form.&#x20;
+
+    <figure><img src="../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
+2.  Send Instructions Using Natural Language:&#x20;
+
+    Example: Help me analyze this token: xxxxx
+
+**Step 2: Check the result**
+
+The analysis is divided into three key modules: **Basic Info**, **Twitter News**, and **Twitter Account Analysis**.
+
+1.  **Basic Info**: This section includes the AI-generated analysis (some tokens may be missing), token trading data, and candlestick charts. You can interact with the chart by dragging to explore prices over different time periods.
+
+    <figure><img src="../.gitbook/assets/image (33).png" alt="" width="375"><figcaption></figcaption></figure>
+2.  **Twitter News**: A curated selection of Twitter posts, recommended based on both relevance and real-time importance.
+
+
+
+    <figure><img src="../.gitbook/assets/image (32).png" alt="" width="375"><figcaption></figcaption></figure>
+3. **Twitter Account Analysis**: Provides insights into the Twitter account's follower data, along with information on which key opinion leaders (KOLs) and venture capitalists (VCs) are following the account.
+
+<figure><img src="../.gitbook/assets/image (34).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Issue Token&#x20;
+
+**Step 1: Send instructions**
+
+Perform operations using shortcut buttons or natural language.
+
+1. Generate Instructions with Shortcut Buttons.
+   1.  Click the ‘Issue Token’ button and fill out the form.&#x20;
+
+       <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+2.  Send Instructions Using Natural Language:&#x20;
+
+    Example: Create a new token called \[token name] with symbol \[ticker] with twitter \[link], with website \[link], with telegram \[link], buy \[amount] SOL worth.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Step 2: Secondary confirmation**
+
+Confirm the configuration information again and reply, then wait for the release.&#x20;
+
+<figure><img src="../.gitbook/assets/image (35).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Step 3: Check the token profile**
+
+Release successful. You can view the token profile issued on pump.fun via the link.
+
+<figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
