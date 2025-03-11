@@ -12,6 +12,7 @@
   * [Task Manegement](xnomad.fun/task-manegement.md)
   * [Agent Token](xnomad.fun/agent-token.md)
   * [Agent Marketplace](xnomad.fun/agent-marketplace.md)
+  * [Token Insight Query](xnomad.fun/token-insight-query.md)
 * [Genesis NFT](genesis-nft.md)
 * [Tokenomics](tokenomics.md)
 

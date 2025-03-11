@@ -10,13 +10,13 @@ At xNomad.fun, we offer features that allow users to easily connect AI-NFTs to s
 
 Go to the "Features" page and click on "Add" under the Twitter integration section.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step2:**&#x20;
 
 Configure your integration settings.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * **Username:** Your Twitter username (e.g., xNomadAI)
 * **Password:** Your Twitter account password
@@ -26,11 +26,11 @@ Configure your integration settings.
     * If you've enabled two-factor authentication (2FA) via the Authentication app, find and copy the 16-character code from the app.
     * If you haven’t enabled it yet, follow the steps below to enable 2FA:
 
-    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     * You can either scan the QR code in the app or find the 16-character code manually. Make sure to use this code when enabling the Authentication app.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 

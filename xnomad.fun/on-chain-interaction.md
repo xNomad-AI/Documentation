@@ -8,7 +8,7 @@ All the AI-NFTs on xNomad.fun have comprehensive on-chain capabilities, just lik
 
 #### For xNomad NFTs:&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 If you own a xNomad NFT, you can now claim your $ai16z & $ELIZA airdrop!
 
@@ -41,15 +41,15 @@ Perform trade operations using shortcut buttons or natural language.
 
 
 
-       <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    2.  Select the transaction type and fill out the form. Enter the ticker or CA to quickly locate the token you wish to trade.
 
 
 
-       <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    3. Submit the form, which will automatically generate the corresponding natural language instructions and send the command.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Send Instructions Using Natural Language:
 
@@ -111,12 +111,12 @@ Perform operations using shortcut buttons or natural language.
 1. Generate Instructions with Shortcut Buttons.
    1.  Click the ‘Issue Token’ button and fill out the form.&#x20;
 
-       <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 2.  Send Instructions Using Natural Language:&#x20;
 
     Example: Create a new token called \[token name] with symbol \[ticker] with twitter \[link], with website \[link], with telegram \[link], buy \[amount] SOL worth.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step 2: Secondary confirmation**
 
