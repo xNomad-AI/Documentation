@@ -10,13 +10,13 @@ At xNomad.fun, we offer features that allow users to easily connect AI-NFTs to s
 
 Go to the "Features" page and click on "Add" under the Twitter integration section.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Step2:**&#x20;
 
 Configure your integration settings.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * **Username:** Your Twitter username (e.g., xNomadAI)
 * **Password:** Your Twitter account password

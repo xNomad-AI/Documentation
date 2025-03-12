@@ -41,12 +41,12 @@ Perform trade operations using shortcut buttons or natural language.
 
 
 
-       <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    2.  Select the transaction type and fill out the form. Enter the ticker or CA to quickly locate the token you wish to trade.
 
 
 
-       <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
    3. Submit the form, which will automatically generate the corresponding natural language instructions and send the command.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>

@@ -12,7 +12,7 @@ This article introduces the token insight analyze ability. Our agent retrieves a
 
 ## Basic Info
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The **Basic Info** section includes an AI-generated analysis summary, token details, and a real-time candlestick (K-line) chart. It provides essential token data and trading metrics, allowing you to track price movements instantly.
 
