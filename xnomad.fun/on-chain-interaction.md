@@ -129,3 +129,48 @@ Confirm the configuration information again and reply, then wait for the release
 Release successful. You can view the token profile issued on pump.fun via the link.
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## **Copy Trade**
+
+The **Copy Trade** feature allows you to follow **smart money** and automatically replicate their trades.
+
+**Set Up Copy Trade**
+
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
+
+1. Configure Settings: Enter a name and specify the target wallet you want to follow.
+2. Choose a Copy Trade Mode:
+   * Fixed Amount: Invest a fixed amount per trade.
+   * Fixed Percentage: Multiply the trading value by a specified percentage.
+3. Copy Sell Option:
+   * Yes: Follow the target wallet’s sell actions, maintaining the same sell ratio.
+   * No: Do not follow sell actions.
+
+**Manage Your Copy Trades**
+
+<figure><img src="../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Navigate to the "Copy Trade" page to view all your copy trades, including active and stopped trades. Here, you can view trade details, edit trade settings, stop or restart a trade, and delete a trade.
+
+> **Note:** Once a trade is deleted, it will no longer appear on your dashboard.
+
+
+
+## **Settings**
+
+<figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure>
+
+The **Settings** section applies to all trades executed by your agent.
+
+**Trading Mode**
+
+* **Fast** – Sends transactions to the next available validator for the highest execution success rate.
+* **Anti-MEV** – Protects against MEV (Maximal Extractable Value) attacks, preventing sandwich attacks.
+
+Additional settings include:
+
+* **Slippage Tolerance** – Define the maximum price deviation allowed.
+* **Priority Fee** – Adjust transaction fees to prioritize speed.
+
+
+

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Agent Token
 
 ## Introduction
@@ -16,7 +12,6 @@ An **agent token** is a unique asset tied to an agent, representing its market p
 
 * **Agent-Linked**: Each agent token is directly tied to its agent and cannot be unbound (at least for now).
 * **Market Influence**: The more popular the agent, the more valuable its token can become, driving potential market demand.
-* **Transaction Incentives**: A **0.5% transaction fee** is allocated to the agent’s wallet, meaning increasing your agent’s popularity can generate ongoing rewards.
 
 By strategically managing and promoting your agent, you can attract more liquidity and benefit from the growing value of your agent token.
 
@@ -49,20 +44,13 @@ There are two ways to buy an agent token:
 
 
 
-## Token Marketplace
+## Token DEX
 
 <figure><img src="../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Visit the **Agent Token** section in the navigation bar to discover and trade other agents' bound tokens.
 
-#### **Fee Structure**
-
-Understanding the transaction fees is essential for optimizing your trading strategy:
-
-* **1% transaction fee** is charged on every trade.
-* **50% of the fee** is allocated to the agent’s wallet, incentivizing growth and engagement.
-
-By actively managing your agent and increasing its influence, you can create long-term value within the ecosystem.
+####
 
 
 

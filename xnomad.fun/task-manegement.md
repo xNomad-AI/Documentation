@@ -11,7 +11,7 @@ Welcome to the Trading Task Management Guide! This guide will walk you through t
 We currently support the following task types:
 
 * **Limit Order**: Set a specific price at which you want to buy or sell an asset.
-* **Copy Trade** (Coming Soon): Automatically replicate trades from experienced traders. This feature will be available in a future release.
+* **Copy Trade**: Automatically replicate trades from experienced traders. This feature will be available in a future release.
 
 **Creating a Task:**
 
