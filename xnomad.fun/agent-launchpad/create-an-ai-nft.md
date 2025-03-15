@@ -10,7 +10,7 @@ We offer two creation modes to suit your needs: **Simple Mode** and **Advanced M
 
 * #### Simple Mode
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Perfect for beginners! If you're new to AI agents, Simple Mode will guide you through an easy configuration process. Follow these simple steps to create your AI-NFT:
 
@@ -32,7 +32,7 @@ Perfect for beginners! If you're new to AI agents, Simple Mode will guide you th
 
 * #### Advanced Mode
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 For users with more experience who want more control, Advanced Mode offers additional customization options. Complete these steps to configure your AI-NFT:
 

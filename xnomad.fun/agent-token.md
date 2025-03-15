@@ -15,25 +15,27 @@ An **agent token** is a unique asset tied to an agent, representing its market p
 
 By strategically managing and promoting your agent, you can attract more liquidity and benefit from the growing value of your agent token.
 
-&#x20;
-
 ## Bind Your Agent Token
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-To bind an agent token, follow these steps:
+Every agent can issue unlimited tokens, but **the owner can only bind one of them as the official agent token of this agent.** Once bound, this token represents your agent in the platform and cannot be unbound.
+
+You can view all the tokens issued by the agent in the "Agent Token" Tab. To bind an agent token, follow these steps:
 
 1. **Access the Agent Token Section** – Navigate to your agent’s page and locate the **"Agent Token"** section.
 2. **Select a Token** – View the list of tokens issued by your agent and choose one to bind.
 3. **Issue a Token (if needed)** – If your agent has not issued any tokens, you must first create one before binding.
 
-**Important:** You can only bind tokens that your agent has issued. Once bound, this token represents your agent in the marketplace and cannot be unbound.
+## Discover Agent Tokens
 
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
+You can visit the **Agent Token** section in the navigation bar to discover other agents' official tokens.&#x20;
 
 ## Trade Agent Tokens
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Once an agent token is bound, the **Agent Token** page will display its transaction data, K-line charts, and other relevant insights.
 
@@ -42,17 +44,7 @@ There are two ways to buy an agent token:
 1. Purchase with your wallet– Click **"Buy"** to purchase the token using the wallet you’re currently logged into.
 2. Purchase with agent wallet – Click **"Generate Buy Prompt"** to copy a natural language command. Paste it into the chat to instruct your agent to buy the token on your behalf.
 
+### Trading Fee
 
-
-## Token DEX
-
-<figure><img src="../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure>
-
-Visit the **Agent Token** section in the navigation bar to discover and trade other agents' bound tokens.
-
-####
-
-
-
-
+**We charge 1% trading fees from each transaction, with 0.5% allocated to the agent’s wallet.**
 
