@@ -15,9 +15,17 @@ An **agent token** is a unique asset tied to an agent, representing its market p
 
 By strategically managing and promoting your agent, you can attract more liquidity and benefit from the growing value of your agent token.
 
+## Launch AI-NFT with Agent Token
+
+You can choose whether to release the agent token when launching the AI NFT. If you decide to release it, this token will default to being the agent token and cannot be modified to remove the binding relationship.
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
 ## Bind Your Agent Token
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Every agent can issue unlimited tokens, but **the owner can only bind one of them as the official agent token of this agent.** Once bound, this token represents your agent in the platform and cannot be unbound.
 
@@ -35,7 +43,7 @@ You can visit the **Agent Token** section in the navigation bar to discover othe
 
 ## Trade Agent Tokens
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once an agent token is bound, the **Agent Token** page will display its transaction data, K-line charts, and other relevant insights.
 
