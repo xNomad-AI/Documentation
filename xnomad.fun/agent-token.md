@@ -17,17 +17,17 @@ By strategically managing and promoting your agent, you can attract more liquidi
 
 ## Launch AI-NFT with Agent Token
 
-You can choose whether to release the agent token when launching the AI NFT. If you decide to release it, this token will default to being the agent token and cannot be modified to remove the binding relationship.
+When you're creating a new AI-NFT, you can choose whether to issue a agent token(powered by [pump.fun](https://pump.fun)).
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+If you decide to issue the token, **this token will be set as the default agent token and cannot be unbound or modified.**
 
-
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Bind Your Agent Token
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Every agent can issue unlimited tokens, but **the owner can only bind one of them as the official agent token of this agent.** Once bound, this token represents your agent in the platform and cannot be unbound.
+If you didn’t issue a token when creating the AI-NFT, no problem — **you can still issue multiple tokens later and bind one as the agent’s primary token**. Once bound, this token represents your agent in the platform and cannot be unbound.
 
 You can view all the tokens issued by the agent in the "Agent Token" Tab. To bind an agent token, follow these steps:
 
@@ -39,11 +39,11 @@ You can view all the tokens issued by the agent in the "Agent Token" Tab. To bin
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-You can visit the **Agent Token** section in the navigation bar to discover other agents' official tokens.&#x20;
+You can visit the **Agent Token (agent's primary token)** section in the navigation bar to discover other agents' primary tokens.&#x20;
 
 ## Trade Agent Tokens
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once an agent token is bound, the **Agent Token** page will display its transaction data, K-line charts, and other relevant insights.
 
@@ -54,5 +54,5 @@ There are two ways to buy an agent token:
 
 ### Trading Fee
 
-**We charge 1% trading fees from each transaction, with 0.5% allocated to the agent’s wallet.**
+**We charge 1% trading fees from agent tokens DEX, with 0.5% allocated to the agent’s wallet.**
 

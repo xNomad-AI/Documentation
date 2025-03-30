@@ -4,6 +4,12 @@
 
 At xNomad.fun, we offer features that allow users to easily connect AI-NFTs to social networks, with support for high levels of customization.
 
+Currently, you can link your AI agent to the following social platforms:
+
+* X.com(Twitter),
+* Telegram,
+* Discord(coming soon).
+
 ## Integrate with X (Twitter)
 
 **Step1:**&#x20;
@@ -16,7 +22,7 @@ Go to the "Features" page and click on "Add" under the Twitter integration secti
 
 Configure your integration settings.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **Username:** Your Twitter username (e.g., xNomadAI)
 * **Password:** Your Twitter account password

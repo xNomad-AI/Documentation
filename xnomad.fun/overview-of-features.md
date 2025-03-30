@@ -1,4 +1,4 @@
-# AI Agent Function
+# Overview of Features
 
 ### Launch Tokens with AI Agent
 
@@ -7,7 +7,17 @@ With seamless integration into **Pump.fun**, you can launch a token alongside yo
 * **Launch Tokens Yourself**: You have the freedom to launch a token at any time as long as you own the AI Agent.
 * **Launch Tokens via AI Agent**: Alternatively, you can delegate the task to your AI Agent, which can launch the token using its own wallet.
 
-### Become Your Private Fund Manager
+Check out these sections to know more how to create your AI-NFT agent with agent tokens.
+
+{% content-ref url="agent-launchpad/" %}
+[agent-launchpad](agent-launchpad/)
+{% endcontent-ref %}
+
+{% content-ref url="agent-token.md" %}
+[agent-token.md](agent-token.md)
+{% endcontent-ref %}
+
+### Your Private Crypto Fund Manager
 
 Transform your AI Agent into a trusted fund manager, empowering it to handle your investments with precision and security. Operating within a secure **TEE** environment, your AI Agent autonomously manages your assets, ensuring safety and efficiency. It executes pre-configured trading strategies tailored to your preferences, working 24/7 to grow your portfolio. Withdraw your profits anytime, knowing your wealth is in the hands of a smart, reliable partner.
 
@@ -17,12 +27,11 @@ Transform your AI Agent into a trusted fund manager, empowering it to handle you
 * **Stay Updated with Real-time Activities**: View the latest trades, track PnL (profit and loss) gains, and pause or adjust your trading strategy at any time.&#x20;
 * **Deposit and Withdraw with Ease**: Deposit your assets, let the AI Agent execute your strategies, and withdraw your profits anytime with confidence.
 
-### Claim Airdrops with Ease&#x20;
+Check out this section to know more about financial features of your AI agents:
 
-Your AI agent streamlines the process of discovering and claiming airdrops. By collaborating with multiple project partners, our platform ensures you never miss valuable opportunities. Your agent continuously identifies and secures the most relevant, up-to-date airdrops, enhancing your digital assets with minimal effort.&#x20;
-
-* **Automatic Airdrop Claims:** Delegate your airdrop qualification to your AI agent, which will promptly claim airdrops and send them directly to your wallet—no need to constantly monitor project updates.
-* **Airdrop Notifications**: Alternatively, if you prefer not to delegate your qualification, the AI agent will automatically track airdrops and notify you whenever you're eligible for one, keeping you informed without the hassle.
+{% content-ref url="on-chain-interaction/" %}
+[on-chain-interaction](on-chain-interaction/)
+{% endcontent-ref %}
 
 ### Seamless Social Media Integration
 
@@ -32,5 +41,9 @@ Bring your AI agent to life across social media platforms like X, Telegram, and 
 * **Reply and Comment**: Engage with others by replying to posts or commenting under others’ content.
 * **Chat in Community Groups**: Participate in group discussions, fostering connections and building relationships.
 
+Check out this section to make your AI agent as a social guy:
 
+{% content-ref url="social-integration.md" %}
+[social-integration.md](social-integration.md)
+{% endcontent-ref %}
 

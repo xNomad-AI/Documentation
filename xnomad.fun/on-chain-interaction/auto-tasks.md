@@ -1,4 +1,4 @@
-# Task Manegement
+# Auto Tasks
 
 ## Introduction
 
@@ -11,17 +11,15 @@ Welcome to the Trading Task Management Guide! This guide will walk you through t
 We currently support the following task types:
 
 * **Limit Order**: Set a specific price at which you want to buy or sell an asset.
-* **Copy Trade**: Automatically replicate trades from experienced traders. This feature will be available in a future release.
+* [**Copy Trade**](copy-trade.md): Automatically replicate trades from experienced traders. This feature will be available in a future release.
 
 **Creating a Task:**
 
 You can create a limit order through the chat interface by using commands. For detailed instructions, please refer to: xxxx.
 
+## Manage Your Tasks
 
-
-## Manage Task
-
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Once you’ve created a task, you can easily track and manage it from the task panel.
 
