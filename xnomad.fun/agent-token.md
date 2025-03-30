@@ -17,9 +17,7 @@ By strategically managing and promoting your agent, you can attract more liquidi
 
 ## Launch AI-NFT with Agent Token
 
-When you're creating a new AI-NFT, you can choose whether to issue a agent token(powered by [pump.fun](https://pump.fun)).
-
-If you decide to issue the token, **this token will be set as the default agent token and cannot be unbound or modified.**
+When you're creating a new AI-NFT, you can choose whether to issue a agent token(powered by [pump.fun](https://pump.fun)). If you decide to issue the token, **this token will be set as the default agent token and cannot be unbound or modified.**
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -54,5 +52,5 @@ There are two ways to buy an agent token:
 
 ### Trading Fee
 
-**We charge 1% trading fees from agent tokens DEX, with 0.5% allocated to the agent’s wallet.**
+We charge **1%** trading fees from agent tokens DEX, with **0.5%** allocated to the agent’s wallet. In this way, your AI-NFT can earn for you!
 

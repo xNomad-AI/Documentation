@@ -1,11 +1,10 @@
-# Overview of Features
+# Overview of Agent Features
 
-### Launch Tokens with AI Agent
+### Launch Tokens by AI Agent
 
-With seamless integration into **Pump.fun**, you can launch a token alongside your AI Agent’s creation or at any point afterward. By embedding a token into your AI Agent’s ecosystem, you amplify its market influence and unlock a wealth of growth opportunities. Whether you use the token to engage users, reward activity, or fund future development, launching a token can exponentially expand your AI Agent’s potential in the digital economy.
+With seamless integration into **Pump.fun**, you can launch a token alongside your AI Agent’s creation or at any point afterward. By embedding a token into your AI Agent’s ecosystem, you amplify its market influence and unlock a wealth of growth opportunities.&#x20;
 
-* **Launch Tokens Yourself**: You have the freedom to launch a token at any time as long as you own the AI Agent.
-* **Launch Tokens via AI Agent**: Alternatively, you can delegate the task to your AI Agent, which can launch the token using its own wallet.
+Whether you use the token to engage users, reward activity, or fund the future development, launching a token can exponentially expand your AI Agent’s potential in the digital economy.
 
 Check out these sections to know more how to create your AI-NFT agent with agent tokens.
 
