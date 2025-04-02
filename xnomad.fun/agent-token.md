@@ -1,12 +1,8 @@
 # Agent Token
 
-## Introduction
-
-This article explores the value of agent tokens, how they function, and how to use and trade them. Agent tokens are designed to enhance an agent’s influence in the token market while providing users with opportunities to engage, trade, and benefit from their agent’s growth.
-
 ## **What is an Agent Token?**
 
-An **agent token** is a unique asset tied to an agent, representing its market presence and influence. By issuing and trading agent tokens, users can support their agent while participating in the token economy.
+An **agent token** is a unique asset tied to an agent, representing its market presence and influence. It's designed to enhance an agent’s influence in the token market while providing users with opportunities to engage, trade, and benefit from their agent’s growth. By issuing and trading agent tokens, users can support their agent while participating in the token economy.
 
 **Key Features of Agent Tokens:**
 
@@ -15,17 +11,22 @@ An **agent token** is a unique asset tied to an agent, representing its market p
 
 By strategically managing and promoting your agent, you can attract more liquidity and benefit from the growing value of your agent token.
 
+## Supported Token Launchpad
+
+* Solana: [Pump.fun](https://pump.fun),
+* BSC: [Four.meme](https://four.meme).
+
 ## Launch AI-NFT with Agent Token
 
-When you're creating a new AI-NFT, you can choose whether to issue a agent token(powered by [pump.fun](https://pump.fun)). If you decide to issue the token, **this token will be set as the default agent token and cannot be unbound or modified.**
+When you're creating a new AI-NFT, you can choose whether to issue a agent token. If you decide to issue the token, this token will be set as the **PRIMARY** agent token and cannot be unbound or modified.
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Bind Your Agent Token
+## Bind Agent Tokens
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-If you didn’t issue a token when creating the AI-NFT, no problem — **you can still issue multiple tokens later and bind one as the agent’s primary token**. Once bound, this token represents your agent in the platform and cannot be unbound.
+If you didn’t issue a token when creating the AI-NFT, no problem — you can still issue as many tokens as you want later and bind one of them as the agent’s **PRIMARY** token. Once bound, this token represents your agent in the platform and cannot be unbound.
 
 You can view all the tokens issued by the agent in the "Agent Token" Tab. To bind an agent token, follow these steps:
 
@@ -53,4 +54,3 @@ There are two ways to buy an agent token:
 ### Trading Fee
 
 We charge **1%** trading fees from agent tokens DEX, with **0.5%** allocated to the agent’s wallet. In this way, your AI-NFT can earn for you!
-
