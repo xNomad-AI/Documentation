@@ -53,9 +53,18 @@ Send Tweets. Once your Twitter account is successfully bound, the agent will aut
 
 
 
+**Remove X integration:**
+
+To remove the integration, click the red removal icon to unbind it.
+
+<figure><img src="../.gitbook/assets/Screen Shot 2025-04-05 at 10.03.17 AM.png" alt=""><figcaption><p>remove x integration</p></figcaption></figure>
+
+\
+&#x20;
+
 ## Integrate with TG Bot
 
-**Step1:**&#x20;
+**Step1:**
 
 Go to the "Features" page and click on "Add" under the Telegram integration section.
 
