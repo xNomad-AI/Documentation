@@ -20,11 +20,11 @@ By strategically managing and promoting your agent, you can attract more liquidi
 
 When you're creating a new AI-NFT, you can choose whether to issue a agent token. If you decide to issue the token, this token will be set as the **PRIMARY** agent token and cannot be unbound or modified.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Bind Agent Tokens
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you didn’t issue a token when creating the AI-NFT, no problem — you can still issue as many tokens as you want later and bind one of them as the agent’s **PRIMARY** token. Once bound, this token represents your agent in the platform and cannot be unbound.
 
@@ -42,7 +42,7 @@ You can visit the **Agent Token (agent's primary token)** section in the navigat
 
 ## Trade Agent Tokens
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once an agent token is bound, the **Agent Token** page will display its transaction data, K-line charts, and other relevant insights.
 

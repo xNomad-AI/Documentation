@@ -17,7 +17,7 @@ Perform trade operations using shortcut buttons or natural language.
 
 
 
-       <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
    2.  Select the transaction type and fill out the form. Enter the ticker or CA to quickly locate the token you wish to trade.
 
 

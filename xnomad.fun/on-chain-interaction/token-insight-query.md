@@ -11,7 +11,7 @@ Perform operations using shortcut buttons or natural language.
 1. Generate Instructions with Shortcut Buttons.
    1. Click the ‘Analyze’ button and fill out the form.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Send Instructions Using Natural Language:&#x20;
 

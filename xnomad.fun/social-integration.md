@@ -22,7 +22,7 @@ Go to the "Features" page and click on "Add" under the Twitter integration secti
 
 Configure your integration settings.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **Username:** Your Twitter username (e.g., xNomadAI)
 * **Password:** Your Twitter account password
