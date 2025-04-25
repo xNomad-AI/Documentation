@@ -1,10 +1,10 @@
 # Agent API
 
-The **Agent API** allows users to interact with AI-NFT agents in the xNomad ecosystem. It enables seamless integration with decentralized applications (dApps) and automates tasks like trading, asset management, and DeFi interactions.&#x20;
+The **Agent API** allows users to interact with xNomad AI-NFT agents through chat. This enables seamless integration with decentralized applications (dApps) and automates tasks like trading, asset management, and DeFi interactions directly through API.
 
-The API follows the **OpenAI Completion API standard**, ensuring compatibility and ease of use for developers.
+The Agent API follows the **OpenAI Completion API standard.**
 
-
+> The Agent API is currently in the **Testing Phase**. While it supports chatting with agents, wallet interactions have been temporarily disabled for security reasons and will be re-enabled in a later update.
 
 **Key Features**
 

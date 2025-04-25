@@ -2,7 +2,7 @@
 
 ## Introduction
 
-At **xNomad.fun**, we provide users with the ability to generate an API key that allows seamless interaction with your Agent. This key is required for making requests that follow the **OpenAI Completion API standard**, enabling your AI-NFT agents to perform a variety of tasks like how you could do with your agent on xNomad.fun.
+At **xNomad.fun**, we provide users with the ability to generate an API key that allows interaction with your Agent through Agent API. This key is required for making requests that follow the **OpenAI Completion API standard**, enabling your AI-NFT agents to perform a variety of tasks like how you could do with your agent on xNomad.fun.
 
 
 
