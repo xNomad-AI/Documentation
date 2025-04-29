@@ -4,8 +4,7 @@
 
 At **xNomad.fun**, we provide users with the ability to generate an API key that allows interaction with your Agent through Agent API. This key is required for making requests that follow the **OpenAI Completion API standard**, enabling your AI-NFT agents to perform a variety of tasks like how you could do with your agent on xNomad.fun.
 
-> The Agent API is currently in the **Testing Phase**. You can generate your API Key on the beta version of xNomad.fun. The Link is : [https://beta.xnomad.fun](https://beta.xnomad.fun).\
->
+> You can generate your API Key on xNomad.fun. The Link is : [https://xnomad.fun](https://beta.xnomad.fun).
 
 ## Get Your First API Key
 
@@ -17,6 +16,8 @@ From your dashboard, head to the **Features** section.  Under the **API Key Gene
 **Step 2:**&#x20;
 
 **Enter API Key Details**: enter an **API Key Name** and set the **expiration period** for the API key (e.g., 20 days).  After the set period, the key will automatically expire and require regeneration.
+
+* The **maximum expiration period** is 30 days.
 
 <figure><img src="../../.gitbook/assets/Screen Shot 2025-04-24 at 3.13.40 PM.png" alt=""><figcaption></figcaption></figure>
 
