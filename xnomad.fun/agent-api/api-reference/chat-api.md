@@ -6,6 +6,6 @@
 
 
 
-{% openapi-operation spec="newone" path="/v1/chat/completions" method="post" %}
+{% openapi-operation spec="ldf" path="/v1/chat/completions" method="post" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}
