@@ -21,8 +21,8 @@ Once you have your API key, you can begin making your first Agent request using 
         "messages": [
           {"role": "user", "content": "Hey, who are you and what do you do?"}
         ],
-        "temperature": 0.7,
-        "max_tokens": 1000
+        "temperature": 0,
+        "max_tokens": 0,
       }'
 </code></pre>
 
