@@ -23,19 +23,21 @@ The analysis is divided into three key modules: **Basic Info**, **X News**, and 
 
 ### 1. Basic Info
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-04-30 at 12.35.17 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
 The **Basic Info** section includes an AI-generated analysis summary, token details, and a real-time candlestick (K-line) chart. It provides essential token data and trading metrics, allowing you to track price movements instantly.
 
 ### 2. X News
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-04-30 at 12.38.34 PM.png" alt=""><figcaption></figcaption></figure>
 
 In the **X News** section, we curate relevant posts based on factors like relevance, popularity, and timing. This helps you stay updated on the latest discussions, trends, and market reactions surrounding the token.
 
 ### 3. X Profile
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-04-30 at 12.37.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 The **X Profile** section analyzes posts and followers of relevant Twitter accounts, identifying key influencers, projects, and venture capitalists (VCs). These insights help assess an account’s social media influence and industry engagement.
 
