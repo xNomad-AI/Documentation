@@ -6,13 +6,16 @@ The **Copy Trade** feature allows you to follow **smart money** and automaticall
 
 ### **Set Up Copy Trade**
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2025-04-30 at 11.45.29 AM.png" alt=""><figcaption></figcaption></figure>
 
-1. Configure Settings: Enter a name and specify the target wallet you want to follow.
-2. Choose a Copy Trade Mode:
+1. **Enter a Name**: Give your copy trade task a custom name to help you manage it easily.
+2. **Select a Target Wallet**: You can follow a wallet by
+   * Address: Paste the wallet address directly.
+   * X Handle: Browse a curated list of Twitter KOLs and select their wallet with one click.
+3. **Choose a Copy Trade Mode**:
    * Fixed Amount: Invest a fixed amount per trade.
    * Fixed Percentage: Multiply the trading value by a specified percentage.
-3. Copy Sell Option:
+4. **Copy Sell Option**:
    * Yes: Follow the target wallet’s sell actions, maintaining the same sell ratio.
    * No: Do not follow sell actions.
 
